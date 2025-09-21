@@ -35,7 +35,7 @@ There are three types of files: <br> <br>
 A general structure followed by all the model folders are: 
 ```
 ModelAnalysis/
-├─ experiment_data/               # folder with experiment data from P, PI and PID control
+├─ experiment_data/                       # folder with experiment data from P, PI and PID control
 │  ├─ P-FL_OD_run_data_040625.csv         # P control data from experiment done on 040625
 │  └─ P-FL_OD_run_data_02325.csv          # P control data from experiment done on 042325 and so on..
 ├─ parameters                             # folder containing model parameters
