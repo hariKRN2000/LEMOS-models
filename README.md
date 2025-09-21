@@ -1,4 +1,7 @@
-# LEMOS-models
-Dynamic models used to study the dynamics of optogenetic two component system and develop efficient closed loop control strategies
+# LED-Embedded Microplate for Optogenetic Studies (LEMOS)
+## Experiment run files and dynamic models
+Experiment run files and Dynamic models used to study the dynamics of optogenetic two component system and develop closed loop control strategies <br>
 
-....In progress...
+Description of each folder in the repository: 
+
+
