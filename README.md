@@ -18,6 +18,6 @@ This command activates the environment and modifies your shell's path to point t
 
 ## File Information: 
 
--- '''growth independent models'''
+-- ```run_open_loop_simulation``` : Simulation of the open loop experiment under constant light inputs, using the growth dependent (GEAGS) model. 
 
 
