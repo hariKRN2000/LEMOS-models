@@ -31,8 +31,8 @@ There are three types of files: <br> <br>
 
 
 2) Used to analyze experimental data: <br>
--- ```timing diagram``` : Folder containing the python files used to generate the variation in duty cycle across the experimental time scale.
-   -- ```Experimental Data Analysis``` : Folder containing the python files used to generate the variation in duty cycle across the experimental time scale.
+-- ```timing diagram``` : Folder containing the python files used to generate the variation in duty cycle across the experimental time scale. <br>
+-- ```Experimental Data Analysis``` : Folder containing the python files used to generate the variation in duty cycle across the experimental time scale.
    
 4) Used to run the experiments
 
