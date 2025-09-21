@@ -36,8 +36,8 @@ A general structure followed by all the model folders are:
 ```
 ModelAnalysis/
 ├─ experiment_data/                       # folder with experiment data from P, PI and PID control
-│  ├─ P-FL_OD_run_data_040625.csv         # P control data from experiment done on 040625
-│  └─ P-FL_OD_run_data_02325.csv          # P control data from experiment done on 042325 and so on..
+│  ├─ P-FL_OD_run_data_040625.csv         # P control data from experiment done on 04/06/25
+│  └─ P-FL_OD_run_data_02325.csv          # P control data from experiment done on 04/23/25 and so on..
 ├─ parameters                             # folder containing model parameters
 ├─ figures                                # folder containing figures exported from the different run files
 ├─ model_equations_and_simulators/        # folder with python files used to define the model equations and simulator engines
