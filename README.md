@@ -19,17 +19,18 @@ This command activates the environment and modifies your shell's path to point t
 ## File Information: 
 There are three types of files: 
 1) Used to simulate and analyze dynamic models:
--- ```run_open_loop_simulation.ipynb``` : Jupyter notebook demonstrating the simulation of the open loop experiment under constant light inputs, using the growth dependent (GEAGS) model. 
--- ```run_p_control_simulation.ipynb``` : Jupyter notebook demonstrating the simulation of the P-control experiment, using the growth dependent (GEAGS) model. 
---```parameters``` : Folder containing the model parameters as csv files. Parameter files are imported by  ```run_open_loop_simulation.ipynb``` and ```run_p_control_simulation.ipynb```.
---```experiment_data``` : Folder containing the experimental data imported by  ```run_open_loop_simulation.ipynb``` and ```run_p_control_simulation.ipynb```.
---```model_equations_and_simulators``` : Contains the python files used to define the model equations and functions developed to simulate the experiments in ```run_open_loop_simulation.ipynb``` and ```run_p_control_simulation.ipynb```.
---```growth independent models``` : Folder containing the implementation of open loop experiments using the growth-independent dynamic models. 
---```Dead time analysis``` : Folder containing the files used to analyze the inherent system dead time in gene expression.
+-- ```run_open_loop_simulation.ipynb``` : Jupyter notebook demonstrating the simulation of the open loop experiment under constant light inputs, using the growth dependent (GEAGS) model. <br>
+-- ```run_p_control_simulation.ipynb``` : Jupyter notebook demonstrating the simulation of the P-control experiment, using the growth dependent (GEAGS) model. <br>
+--```parameters``` : Folder containing the model parameters as csv files. Parameter files are imported by  ```run_open_loop_simulation.ipynb``` and ```run_p_control_simulation.ipynb```. <br>
+--```experiment_data``` : Folder containing the experimental data imported by  ```run_open_loop_simulation.ipynb``` and ```run_p_control_simulation.ipynb```. <br>
+--```model_equations_and_simulators``` : Contains the python files used to define the model equations and functions developed to simulate the experiments in ```run_open_loop_simulation.ipynb``` and ```run_p_control_simulation.ipynb```. <br>
+--```growth independent models``` : Folder containing the implementation of open loop experiments using the growth-independent dynamic models.  <br>
+--```Dead time analysis``` : Folder containing the files used to analyze the inherent system dead time in gene expression. <br>
 --```PI and PID control files``` : 
 
-3) Used to analyze experimental data
+
+2) Used to analyze experimental data
 -- ```timing diagram``` : Folder containing the python files used to generate the variation in duty cycle across the experimental time scale.
    
-4) Used to run the experiments
+3) Used to run the experiments
 
