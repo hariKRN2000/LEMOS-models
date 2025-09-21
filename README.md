@@ -34,6 +34,6 @@ There are three types of files: <br> <br>
 -- ```timing diagram``` : Folder containing the python files used to generate the variation in duty cycle across the experimental time scale. <br>
 -- ```Experimental Performance Analysis``` : Folder containing the jupyter notebooks used to overlay experimental data and perform tha calculations to estimate the performance metrics for different control strategies.
    
-4) Used to run the experiments
+4) Used to run the experiments: <br>
 ---```Experiment run files``` : Contains the Gen5 and python files used to run the LEMOS experiment. 
 
