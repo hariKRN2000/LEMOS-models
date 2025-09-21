@@ -16,6 +16,9 @@ Linux/macOS: Run ```source <environment_name>/bin/activate``` <br>
 Windows: Run ```<environment_name>\Scripts\activate.bat``` <br>
 This command activates the environment and modifies your shell's path to point to the virtual environment's Python interpreter and pip. <br>
 
+## Device Information:
+More information about the LEMOS device can be found on the device repo: ```https://github.com/kpochana/LEMOS```
+
 ## File Information: 
 There are three types of files: <br> <br>
 1) Used to simulate and analyze dynamic models: <br>
