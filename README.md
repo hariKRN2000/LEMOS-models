@@ -32,6 +32,23 @@ There are three types of files: <br> <br>
 --```PI and PID control model files``` : Folder containing the jupyter notebooks demonstrating the simulation of the PI and PID control experiment, using the growth dependent (GEAGS) model. Also contains the simulation of the performance analysis maps. <br>
 --```figures``` : Folder containing figures exported from ```run_open_loop_simulation.ipynb``` and ```run_p_control_simulation.ipynb```. <br>
 
+A general structure followed by all the model folders are: 
+```
+ModelAnalysis/
+├─ experiment_data/               # folder with experiment data from P, PI and PID control
+│  ├─ P-FL_OD_run_data_040625.csv         # P control data from experiment done on 040625
+│  └─ P-FL_OD_run_data_02325.csv          # P control data from experiment done on 042325 and so on..
+├─ parameters                             # folder containing model parameters
+├─ figures                                # folder containing figures exported from the different run files
+├─ model_equations_and_simulators/        # folder with python files used to define the model equations and simulator engines
+│  ├─ model_equations.py                  # python files containing the main model dynamic equations
+│  └─ run_constant.py                     # python files that are used to simulate experiments and so on..
+├─ run_<experiment_name>.ipynb            # Jupyter notebook demonstrating the simulation of the experiment
+├─ <analysis_name>_analysis.ipynb         # Jupyter notebook demonstrating the specific analysis
+└─ README.md                              # ReadMe file (if present) gives details about the different files
+```
+
+The files are named such that to direct user to the specific experiment or analysis. <br> 
 
 2) Used to analyze experimental data: <br>
 -- ```timing diagram``` : Folder containing the python files used to generate the variation in duty cycle across the experimental time scale. <br>
