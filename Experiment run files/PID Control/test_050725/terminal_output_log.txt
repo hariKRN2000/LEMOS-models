@@ -1,0 +1,4730 @@
+Enter a filename for the runlog: Enter a filename for the bluetooth communication log: Starting in 2 seconds...
+starting run...
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrrrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrrrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrrrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrrrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrrrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrrrrrrgggr
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 93 and od 0.08800000000000001
+calculated raw on_time of: 675.6779220779221 seconds
+
+processing well B11 with fl 91 and od 0.073
+calculated raw on_time of: 555.7667318982387 seconds
+
+processing well C11 with fl 96 and od 0.078
+calculated raw on_time of: 556.2725274725275 seconds
+
+processing well D11 with fl 95 and od 0.104
+calculated raw on_time of: 566.4263736263736 seconds
+
+processing well E11 with fl 92 and od 0.079
+calculated raw on_time of: 334.39132007233275 seconds
+
+processing well F11 with fl 97 and od 0.081
+calculated raw on_time of: 333.3361552028219 seconds
+
+processing well G11 with fl 93 and od 0.081
+calculated raw on_time of: 334.91640211640214 seconds
+
+processing well H11 with fl 8 and od 0.06999999999999999
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 82 and od 0.11
+calculated raw on_time of: 695.6051948051949 seconds
+
+processing well G9 with fl 92 and od 0.079
+calculated raw on_time of: 668.7826401446655 seconds
+
+processing well F9 with fl 97 and od 0.06999999999999999
+calculated raw on_time of: 654.6285714285714 seconds
+
+processing well E9 with fl 94 and od 0.073
+calculated raw on_time of: 660.9033268101762 seconds
+
+processing well D9 with fl 92 and od 0.077
+calculated raw on_time of: 666.8467532467532 seconds
+
+processing well C9 with fl 96 and od 0.079
+calculated raw on_time of: 665.5421338155516 seconds
+
+processing well B9 with fl 97 and od 0.05900000000000001
+calculated raw on_time of: 638.093946731235 seconds
+
+processing well A9 with fl -11 and od 0.024000000000000007
+calculated raw on_time of: 772.6476190476191 seconds
+
+New duration setpoints calculated:  [480, 480, 480, 480, np.float64(334.39132007233275), np.float64(333.3361552028219), np.float64(334.91640211640214), 480, 480, 480, 480, 480, 480, 480, 480, 480]
+c:\Users\bav45\OneDrive - Texas A&M University\TAMU\Hu Lab\LEMOS\test_050725\ble_control_pid_ctrl.py:269: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  error_df = pd.concat([error_df, pd.DataFrame([row])], ignore_index=True)
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggggrgggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrgggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggggrgggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrgggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 105 and od 0.08800000000000001
+calculated raw on_time of: 665.122077922078 seconds
+
+processing well B11 with fl 99 and od 0.074
+calculated raw on_time of: 536.9176737280696 seconds
+
+processing well C11 with fl 107 and od 0.08
+calculated raw on_time of: 534.0213153278844 seconds
+
+processing well D11 with fl 107 and od 0.112
+calculated raw on_time of: 558.6022484720318 seconds
+
+processing well E11 with fl 112 and od 0.08600000000000001
+calculated raw on_time of: 302.2810991342952 seconds
+
+processing well F11 with fl 111 and od 0.08600000000000001
+calculated raw on_time of: 311.04132070602003 seconds
+
+processing well G11 with fl 111 and od 0.084
+calculated raw on_time of: 294.986918985283 seconds
+
+processing well H11 with fl 6 and od 0.06999999999999999
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 96 and od 0.116
+calculated raw on_time of: 688.520197044335 seconds
+
+processing well G9 with fl 99 and od 0.083
+calculated raw on_time of: 665.148364888124 seconds
+
+processing well F9 with fl 100 and od 0.074
+calculated raw on_time of: 654.9992277992278 seconds
+
+processing well E9 with fl 101 and od 0.072
+calculated raw on_time of: 651.7079365079366 seconds
+
+processing well D9 with fl 109 and od 0.078
+calculated raw on_time of: 652.0498168498168 seconds
+
+processing well C9 with fl 117 and od 0.08700000000000001
+calculated raw on_time of: 655.416748768473 seconds
+
+processing well B9 with fl 120 and od 0.06799999999999999
+calculated raw on_time of: 628.544537815126 seconds
+
+processing well A9 with fl -13 and od 0.02700000000000001
+calculated raw on_time of: 772.3005291005292 seconds
+
+New duration setpoints calculated:  [480, 480, 480, 480, np.float64(302.2810991342952), np.float64(311.04132070602003), np.float64(294.986918985283), 480, 480, 480, 480, 480, 480, 480, 480, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggggrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrgrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggggrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrgrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 158 and od 0.084
+calculated raw on_time of: 623.2990476190475 seconds
+
+processing well B11 with fl 152 and od 0.08
+calculated raw on_time of: 450.6380899298272 seconds
+
+processing well C11 with fl 162 and od 0.08900000000000001
+calculated raw on_time of: 468.15963617657474 seconds
+
+processing well D11 with fl 165 and od 0.09999999999999999
+calculated raw on_time of: 434.0025710080383 seconds
+
+processing well E11 with fl 164 and od 0.09000000000000001
+calculated raw on_time of: 231.03546074102746 seconds
+
+processing well F11 with fl 167 and od 0.09300000000000001
+calculated raw on_time of: 234.690737644517 seconds
+
+processing well G11 with fl 164 and od 0.09000000000000001
+calculated raw on_time of: 234.62533550758167 seconds
+
+processing well H11 with fl 9 and od 0.075
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 151 and od 0.12300000000000001
+calculated raw on_time of: 665.1108943089431 seconds
+
+processing well G9 with fl 114 and od 0.09000000000000001
+calculated raw on_time of: 662.6133333333333 seconds
+
+processing well F9 with fl 117 and od 0.083
+calculated raw on_time of: 653.4631325301204 seconds
+
+processing well E9 with fl 116 and od 0.079
+calculated raw on_time of: 649.7053164556962 seconds
+
+processing well D9 with fl 182 and od 0.08700000000000001
+calculated raw on_time of: 609.7949425287356 seconds
+
+processing well C9 with fl 190 and od 0.09500000000000001
+calculated raw on_time of: 615.6800000000001 seconds
+
+processing well B9 with fl 190 and od 0.074
+calculated raw on_time of: 579.3556756756758 seconds
+
+processing well A9 with fl -13 and od 0.032000000000000015
+calculated raw on_time of: 769.6800000000001 seconds
+
+New duration setpoints calculated:  [480, np.float64(450.6380899298272), np.float64(468.15963617657474), np.float64(434.0025710080383), np.float64(231.03546074102746), np.float64(234.690737644517), np.float64(234.62533550758167), 480, 480, 480, 480, 480, 480, 480, 480, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 294 and od 0.09200000000000001
+calculated raw on_time of: 538.2547314578006 seconds
+
+processing well B11 with fl 280 and od 0.09000000000000001
+calculated raw on_time of: 287.2190043830111 seconds
+
+processing well C11 with fl 297 and od 0.09899999999999999
+calculated raw on_time of: 296.7336163361225 seconds
+
+processing well D11 with fl 307 and od 0.10099999999999999
+calculated raw on_time of: 256.283146829708 seconds
+
+processing well E11 with fl 299 and od 0.10099999999999999
+calculated raw on_time of: 72.72438923434531 seconds
+
+processing well F11 with fl 306 and od 0.106
+calculated raw on_time of: 83.96438993863269 seconds
+
+processing well G11 with fl 297 and od 0.09999999999999999
+calculated raw on_time of: 70.6030225328169 seconds
+
+processing well H11 with fl 9 and od 0.085
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 291 and od 0.134
+calculated raw on_time of: 603.7913959613696 seconds
+
+processing well G9 with fl 140 and od 0.09899999999999999
+calculated raw on_time of: 652.2714200831847 seconds
+
+processing well F9 with fl 141 and od 0.09400000000000001
+calculated raw on_time of: 646.7764705882353 seconds
+
+processing well E9 with fl 137 and od 0.09000000000000001
+calculated raw on_time of: 645.354248366013 seconds
+
+processing well D9 with fl 349 and od 0.09700000000000002
+calculated raw on_time of: 512.508429351122 seconds
+
+processing well C9 with fl 362 and od 0.106
+calculated raw on_time of: 524.2104328523862 seconds
+
+processing well B9 with fl 364 and od 0.08600000000000001
+calculated raw on_time of: 471.89274965800274 seconds
+
+processing well A9 with fl -13 and od 0.03599999999999999
+calculated raw on_time of: 765.8875816993465 seconds
+
+New duration setpoints calculated:  [480, np.float64(287.2190043830111), np.float64(296.7336163361225), np.float64(256.283146829708), np.float64(72.72438923434531), np.float64(83.96438993863269), np.float64(70.6030225328169), 480, 480, 480, 480, 480, 480, 480, np.float64(471.89274965800274), 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggggrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrgrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggggrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrgrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 531 and od 0.106
+calculated raw on_time of: 421.8608728797408 seconds
+
+processing well B11 with fl 507 and od 0.105
+calculated raw on_time of: 144.91362488363606 seconds
+
+processing well C11 with fl 536 and od 0.115
+calculated raw on_time of: 161.05276087878772 seconds
+
+processing well D11 with fl 563 and od 0.117
+calculated raw on_time of: 135.4960053192479 seconds
+
+processing well E11 with fl 545 and od 0.117
+calculated raw on_time of: -81.93742204299645 seconds
+
+processing well F11 with fl 540 and od 0.12400000000000001
+calculated raw on_time of: -28.903290326053465 seconds
+
+processing well G11 with fl 521 and od 0.115
+calculated raw on_time of: -51.997046787085864 seconds
+
+processing well H11 with fl 10 and od 0.09899999999999999
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 523 and od 0.15100000000000002
+calculated raw on_time of: 520.795772292461 seconds
+
+processing well G9 with fl 178 and od 0.113
+calculated raw on_time of: 641.6504871726111 seconds
+
+processing well F9 with fl 170 and od 0.11
+calculated raw on_time of: 643.5555555555555 seconds
+
+processing well E9 with fl 167 and od 0.105
+calculated raw on_time of: 640.6741702741703 seconds
+
+processing well D9 with fl 625 and od 0.112
+calculated raw on_time of: 385.3217893217893 seconds
+
+processing well C9 with fl 644 and od 0.12200000000000001
+calculated raw on_time of: 404.62858089087604 seconds
+
+processing well B9 with fl 647 and od 0.102
+calculated raw on_time of: 336.5038621509209 seconds
+
+processing well A9 with fl -15 and od 0.033000000000000015
+calculated raw on_time of: 771.5555555555555 seconds
+
+New duration setpoints calculated:  [np.float64(421.8608728797408), np.float64(144.91362488363606), np.float64(161.05276087878772), np.float64(135.4960053192479), 0, 0, 0, 480, 480, 480, 480, 480, np.float64(385.3217893217893), np.float64(404.62858089087604), np.float64(336.5038621509209), 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: gggrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 914 and od 0.128
+calculated raw on_time of: 285.40000000000003 seconds
+
+processing well B11 with fl 851 and od 0.125
+calculated raw on_time of: 38.55733807948537 seconds
+
+processing well C11 with fl 909 and od 0.134
+calculated raw on_time of: 12.541716769318985 seconds
+
+processing well D11 with fl 936 and od 0.136
+calculated raw on_time of: 19.432239102170026 seconds
+
+processing well E11 with fl 923 and od 0.139
+calculated raw on_time of: -195.58483198130108 seconds
+
+processing well F11 with fl 908 and od 0.14400000000000002
+calculated raw on_time of: -178.70879519680528 seconds
+
+processing well G11 with fl 877 and od 0.134
+calculated raw on_time of: -198.51510364531578 seconds
+
+processing well H11 with fl 12 and od 0.12000000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 878 and od 0.17200000000000004
+calculated raw on_time of: 415.7023255813954 seconds
+
+processing well G9 with fl 227 and od 0.135
+calculated raw on_time of: 634.7851851851851 seconds
+
+processing well F9 with fl 228 and od 0.135
+calculated raw on_time of: 634.3111111111111 seconds
+
+processing well E9 with fl 218 and od 0.127
+calculated raw on_time of: 632.5417322834646 seconds
+
+processing well D9 with fl 1041 and od 0.135
+calculated raw on_time of: 248.88888888888894 seconds
+
+processing well C9 with fl 1072 and od 0.14500000000000002
+calculated raw on_time of: 269.2413793103449 seconds
+
+processing well B9 with fl 1081 and od 0.129
+calculated raw on_time of: 206.0899224806202 seconds
+
+processing well A9 with fl -13 and od 0.03500000000000002
+calculated raw on_time of: 766.1714285714286 seconds
+
+New duration setpoints calculated:  [np.float64(285.40000000000003), np.float64(38.55733807948537), np.float64(12.541716769318985), np.float64(19.432239102170026), 0, 0, 0, 480, np.float64(415.7023255813954), 480, 480, 480, np.float64(248.88888888888894), np.float64(269.2413793103449), np.float64(206.0899224806202), 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 1388 and od 0.14800000000000002
+calculated raw on_time of: 142.84585274930112 seconds
+
+processing well B11 with fl 1305 and od 0.14500000000000002
+calculated raw on_time of: -64.43606089922832 seconds
+
+processing well C11 with fl 1424 and od 0.15800000000000003
+calculated raw on_time of: -71.6498347265463 seconds
+
+processing well D11 with fl 1468 and od 0.16200000000000003
+calculated raw on_time of: -63.69551339798056 seconds
+
+processing well E11 with fl 1366 and od 0.15900000000000003
+calculated raw on_time of: -247.90562444943845 seconds
+
+processing well F11 with fl 1379 and od 0.17000000000000004
+calculated raw on_time of: -204.91374613020844 seconds
+
+processing well G11 with fl 1349 and od 0.16100000000000003
+calculated raw on_time of: -218.99970686549133 seconds
+
+processing well H11 with fl 16 and od 0.14500000000000002
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 1340 and od 0.198
+calculated raw on_time of: 309.9307558342041 seconds
+
+processing well G9 with fl 291 and od 0.16900000000000004
+calculated raw on_time of: 632.8608855335647 seconds
+
+processing well F9 with fl 277 and od 0.16000000000000003
+calculated raw on_time of: 632.2620689655172 seconds
+
+processing well E9 with fl 278 and od 0.15200000000000002
+calculated raw on_time of: 626.00943738657 seconds
+
+processing well D9 with fl 1563 and od 0.15700000000000003
+calculated raw on_time of: 105.91557215023076 seconds
+
+processing well C9 with fl 1635 and od 0.16900000000000004
+calculated raw on_time of: 123.89047133238125 seconds
+
+processing well B9 with fl 1626 and od 0.15100000000000002
+calculated raw on_time of: 53.89650605160999 seconds
+
+processing well A9 with fl -12 and od 0.046
+calculated raw on_time of: 759.7577211394304 seconds
+
+New duration setpoints calculated:  [np.float64(142.84585274930112), 0, 0, 0, 0, 0, 0, 480, np.float64(309.9307558342041), 480, 480, 480, np.float64(105.91557215023076), np.float64(123.89047133238125), np.float64(53.89650605160999), 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 1997 and od 0.181
+calculated raw on_time of: 36.314207228618095 seconds
+
+processing well B11 with fl 1872 and od 0.177
+calculated raw on_time of: 0.7063335131157219 seconds
+
+processing well C11 with fl 2038 and od 0.191
+calculated raw on_time of: -17.43805245025638 seconds
+
+processing well D11 with fl 2075 and od 0.196
+calculated raw on_time of: 10.342588784920183 seconds
+
+processing well E11 with fl 1935 and od 0.196
+calculated raw on_time of: -165.97953901332923 seconds
+
+processing well F11 with fl 1925 and od 0.20500000000000002
+calculated raw on_time of: -149.39392364963751 seconds
+
+processing well G11 with fl 1887 and od 0.193
+calculated raw on_time of: -184.75827411714886 seconds
+
+processing well H11 with fl 18 and od 0.179
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 1938 and od 0.23500000000000004
+calculated raw on_time of: 214.64000950909312 seconds
+
+processing well G9 with fl 368 and od 0.21400000000000002
+calculated raw on_time of: 632.3796794235891 seconds
+
+processing well F9 with fl 351 and od 0.202
+calculated raw on_time of: 631.227833397865 seconds
+
+processing well E9 with fl 352 and od 0.194
+calculated raw on_time of: 626.312042849738 seconds
+
+processing well D9 with fl 2265 and od 0.193
+calculated raw on_time of: -8.652328711610288 seconds
+
+processing well C9 with fl 2376 and od 0.20800000000000002
+calculated raw on_time of: 11.358831113021122 seconds
+
+processing well B9 with fl 2353 and od 0.19
+calculated raw on_time of: -50.15371949426644 seconds
+
+processing well A9 with fl -11 and od 0.049
+calculated raw on_time of: 756.8031011287196 seconds
+
+New duration setpoints calculated:  [np.float64(36.314207228618095), np.float64(0.7063335131157219), 0, np.float64(10.342588784920183), 0, 0, 0, 480, np.float64(214.64000950909312), 480, 480, 480, 0, np.float64(11.358831113021122), 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: ggrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: ggrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: grrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 2728 and od 0.21800000000000003
+calculated raw on_time of: -58.53839160261164 seconds
+
+processing well B11 with fl 2567 and od 0.21500000000000002
+calculated raw on_time of: 1.894785323066375 seconds
+
+processing well C11 with fl 2762 and od 0.23400000000000004
+calculated raw on_time of: 49.68043928552381 seconds
+
+processing well D11 with fl 2800 and od 0.23600000000000004
+calculated raw on_time of: 20.742277325584357 seconds
+
+processing well E11 with fl 2522 and od 0.23500000000000004
+calculated raw on_time of: -112.02096932013825 seconds
+
+processing well F11 with fl 2497 and od 0.245
+calculated raw on_time of: -82.99380569917741 seconds
+
+processing well G11 with fl 2454 and od 0.23400000000000004
+calculated raw on_time of: -75.78678037775194 seconds
+
+processing well H11 with fl 22 and od 0.22200000000000003
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 2642 and od 0.278
+calculated raw on_time of: 134.11212651500432 seconds
+
+processing well G9 with fl 449 and od 0.256
+calculated raw on_time of: 630.0923423423424 seconds
+
+processing well F9 with fl 431 and od 0.244
+calculated raw on_time of: 629.2931620144735 seconds
+
+processing well E9 with fl 434 and od 0.23500000000000004
+calculated raw on_time of: 624.1465976614912 seconds
+
+processing well D9 with fl 3059 and od 0.23200000000000004
+calculated raw on_time of: -101.51972662317473 seconds
+
+processing well C9 with fl 3188 and od 0.245
+calculated raw on_time of: -90.44133112704544 seconds
+
+processing well B9 with fl 3168 and od 0.23100000000000004
+calculated raw on_time of: -135.3719433719432 seconds
+
+processing well A9 with fl -13 and od 0.052000000000000005
+calculated raw on_time of: 758.3423423423424 seconds
+
+New duration setpoints calculated:  [0, np.float64(1.894785323066375), np.float64(49.68043928552381), np.float64(20.742277325584357), 0, 0, 0, 480, np.float64(134.11212651500432), 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 3625 and od 0.259
+calculated raw on_time of: -154.439688205726 seconds
+
+processing well B11 with fl 3294 and od 0.255
+calculated raw on_time of: 42.465634411336445 seconds
+
+processing well C11 with fl 3524 and od 0.272
+calculated raw on_time of: 8.608896922836983 seconds
+
+processing well D11 with fl 3543 and od 0.277
+calculated raw on_time of: 56.680602041872206 seconds
+
+processing well E11 with fl 3141 and od 0.279
+calculated raw on_time of: -69.15667416859485 seconds
+
+processing well F11 with fl 3049 and od 0.28600000000000003
+calculated raw on_time of: -38.188923646004284 seconds
+
+processing well G11 with fl 3044 and od 0.274
+calculated raw on_time of: -82.1358555293476 seconds
+
+processing well H11 with fl 22 and od 0.265
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 3512 and od 0.323
+calculated raw on_time of: 45.43704655645776 seconds
+
+processing well G9 with fl 561 and od 0.307
+calculated raw on_time of: 624.3620674820232 seconds
+
+processing well F9 with fl 534 and od 0.29400000000000004
+calculated raw on_time of: 625.0683095879863 seconds
+
+processing well E9 with fl 536 and od 0.28300000000000003
+calculated raw on_time of: 620.0976598439896 seconds
+
+processing well D9 with fl 4084 and od 0.276
+calculated raw on_time of: -205.7012852064533 seconds
+
+processing well C9 with fl 4182 and od 0.28700000000000003
+calculated raw on_time of: -191.25822102425877 seconds
+
+processing well B9 with fl 4200 and od 0.275
+calculated raw on_time of: -236.14133790737566 seconds
+
+processing well A9 with fl -14 and od 0.05600000000000001
+calculated raw on_time of: 757.3132075471698 seconds
+
+New duration setpoints calculated:  [0, np.float64(42.465634411336445), np.float64(8.608896922836983), np.float64(56.680602041872206), 0, 0, 0, 480, np.float64(45.43704655645776), 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 4544 and od 0.306
+calculated raw on_time of: -207.65297031763885 seconds
+
+processing well B11 with fl 4085 and od 0.303
+calculated raw on_time of: 112.53252486518235 seconds
+
+processing well C11 with fl 4303 and od 0.317
+calculated raw on_time of: 99.555355726348 seconds
+
+processing well D11 with fl 4311 and od 0.322
+calculated raw on_time of: 109.67818725914162 seconds
+
+processing well E11 with fl 3727 and od 0.324
+calculated raw on_time of: -16.117547509460255 seconds
+
+processing well F11 with fl 3595 and od 0.332
+calculated raw on_time of: 21.44746129487771 seconds
+
+processing well G11 with fl 3618 and od 0.32
+calculated raw on_time of: -0.301179619812312 seconds
+
+processing well H11 with fl 33 and od 0.314
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 4451 and od 0.369
+calculated raw on_time of: -29.263045241917485 seconds
+
+processing well G9 with fl 680 and od 0.36000000000000004
+calculated raw on_time of: 621.8372257607926 seconds
+
+processing well F9 with fl 652 and od 0.342
+calculated raw on_time of: 620.7144187432488 seconds
+
+processing well E9 with fl 651 and od 0.33
+calculated raw on_time of: 616.4715691951361 seconds
+
+processing well D9 with fl 5285 and od 0.323
+calculated raw on_time of: -304.4565478890182 seconds
+
+processing well C9 with fl 5372 and od 0.332
+calculated raw on_time of: -292.8401504105594 seconds
+
+processing well B9 with fl 5352 and od 0.321
+calculated raw on_time of: -324.339305911066 seconds
+
+processing well A9 with fl -12 and od 0.05700000000000001
+calculated raw on_time of: 756.1997988602079 seconds
+
+New duration setpoints calculated:  [0, np.float64(112.53252486518235), np.float64(99.555355726348), np.float64(109.67818725914162), 0, np.float64(21.44746129487771), 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 5631 and od 0.35900000000000004
+calculated raw on_time of: -261.8336478269984 seconds
+
+processing well B11 with fl 4929 and od 0.35500000000000004
+calculated raw on_time of: 125.60439291682202 seconds
+
+processing well C11 with fl 5104 and od 0.364
+calculated raw on_time of: 112.7985726097465 seconds
+
+processing well D11 with fl 5117 and od 0.373
+calculated raw on_time of: 145.020464264314 seconds
+
+processing well E11 with fl 4335 and od 0.382
+calculated raw on_time of: 57.59622704811806 seconds
+
+processing well F11 with fl 4065 and od 0.38
+calculated raw on_time of: 75.5788090638144 seconds
+
+processing well G11 with fl 4163 and od 0.369
+calculated raw on_time of: 35.65249477891653 seconds
+
+processing well H11 with fl 35 and od 0.372
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 5618 and od 0.43000000000000005
+calculated raw on_time of: -94.14593648412091 seconds
+
+processing well G9 with fl 823 and od 0.41600000000000004
+calculated raw on_time of: 615.4061207609594 seconds
+
+processing well F9 with fl 792 and od 0.404
+calculated raw on_time of: 616.5561588416906 seconds
+
+processing well E9 with fl 826 and od 0.396
+calculated raw on_time of: 608.5265558813945 seconds
+
+processing well D9 with fl 6788 and od 0.379
+calculated raw on_time of: -404.23706982154516 seconds
+
+processing well C9 with fl 6803 and od 0.388
+calculated raw on_time of: -380.12282452056303 seconds
+
+processing well B9 with fl 6901 and od 0.387
+calculated raw on_time of: -399.229140618488 seconds
+
+processing well A9 with fl -13 and od 0.048
+calculated raw on_time of: 759.3548387096774 seconds
+
+New duration setpoints calculated:  [0, np.float64(125.60439291682202), np.float64(112.7985726097465), np.float64(145.020464264314), np.float64(57.59622704811806), np.float64(75.5788090638144), np.float64(35.65249477891653), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 6521 and od 0.41000000000000003
+calculated raw on_time of: -275.9862691960252 seconds
+
+processing well B11 with fl 5688 and od 0.406
+calculated raw on_time of: 177.54233277931843 seconds
+
+processing well C11 with fl 5953 and od 0.41800000000000004
+calculated raw on_time of: 152.3947339663164 seconds
+
+processing well D11 with fl 5906 and od 0.42500000000000004
+calculated raw on_time of: 171.81491110571469 seconds
+
+processing well E11 with fl 4682 and od 0.405
+calculated raw on_time of: -16.50480075752111 seconds
+
+processing well F11 with fl 4415 and od 0.43200000000000005
+calculated raw on_time of: 158.3062170370529 seconds
+
+processing well G11 with fl 4638 and od 0.42900000000000005
+calculated raw on_time of: 136.6733669344524 seconds
+
+processing well H11 with fl 40 and od 0.43200000000000005
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 6608 and od 0.486
+calculated raw on_time of: -128.26337448559667 seconds
+
+processing well G9 with fl 993 and od 0.478
+calculated raw on_time of: 608.9719510305284 seconds
+
+processing well F9 with fl 976 and od 0.45899999999999996
+calculated raw on_time of: 605.838779956427 seconds
+
+processing well E9 with fl 942 and od 0.43200000000000005
+calculated raw on_time of: 602.3703703703703 seconds
+
+processing well D9 with fl 7922 and od 0.42000000000000004
+calculated raw on_time of: -465.2359788359788 seconds
+
+processing well C9 with fl 8057 and od 0.44000000000000006
+calculated raw on_time of: -430.00134680134664 seconds
+
+processing well B9 with fl 8238 and od 0.43900000000000006
+calculated raw on_time of: -459.058128743778 seconds
+
+processing well A9 with fl -12 and od 0.05700000000000001
+calculated raw on_time of: 755.3996101364522 seconds
+
+New duration setpoints calculated:  [0, np.float64(177.54233277931843), np.float64(152.3947339663164), np.float64(171.81491110571469), 0, np.float64(158.3062170370529), np.float64(136.6733669344524), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 7174 and od 0.45100000000000007
+calculated raw on_time of: -276.0523853206779 seconds
+
+processing well B11 with fl 6517 and od 0.45000000000000007
+calculated raw on_time of: 99.51421585179023 seconds
+
+processing well C11 with fl 6923 and od 0.473
+calculated raw on_time of: 109.12207842711774 seconds
+
+processing well D11 with fl 7016 and od 0.478
+calculated raw on_time of: 35.643452924835366 seconds
+
+processing well E11 with fl 4997 and od 0.44700000000000006
+calculated raw on_time of: 108.04311618568833 seconds
+
+processing well F11 with fl 5098 and od 0.487
+calculated raw on_time of: 14.829279960804707 seconds
+
+processing well G11 with fl 5159 and od 0.488
+calculated raw on_time of: 101.71071813264167 seconds
+
+processing well H11 with fl 45 and od 0.481
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 7533 and od 0.531
+calculated raw on_time of: -165.94467740230448 seconds
+
+processing well G9 with fl 1172 and od 0.529
+calculated raw on_time of: 600.1954654960326 seconds
+
+processing well F9 with fl 1282 and od 0.534
+calculated raw on_time of: 588.3395859126197 seconds
+
+processing well E9 with fl 1124 and od 0.478
+calculated raw on_time of: 591.4938021381536 seconds
+
+processing well D9 with fl 9186 and od 0.45600000000000007
+calculated raw on_time of: -547.2756319072107 seconds
+
+processing well C9 with fl 9553 and od 0.486
+calculated raw on_time of: -516.020704465149 seconds
+
+processing well B9 with fl 9738 and od 0.488
+calculated raw on_time of: -535.1272281108347 seconds
+
+processing well A9 with fl -13 and od 0.071
+calculated raw on_time of: 753.7058358466809 seconds
+
+New duration setpoints calculated:  [0, np.float64(99.51421585179023), np.float64(109.12207842711774), np.float64(35.643452924835366), np.float64(108.04311618568833), np.float64(14.829279960804707), np.float64(101.71071813264167), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrgrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrgrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrgrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrgrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrgrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrgrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 7829 and od 0.497
+calculated raw on_time of: -266.2350398688427 seconds
+
+processing well B11 with fl 7637 and od 0.503
+calculated raw on_time of: 35.36294360989603 seconds
+
+processing well C11 with fl 7869 and od 0.513
+calculated raw on_time of: 29.824332428167008 seconds
+
+processing well D11 with fl 7946 and od 0.517
+calculated raw on_time of: 31.546877952940456 seconds
+
+processing well E11 with fl 5475 and od 0.492
+calculated raw on_time of: 47.26234944304382 seconds
+
+processing well F11 with fl 5561 and od 0.531
+calculated raw on_time of: 60.64582735920028 seconds
+
+processing well G11 with fl 5557 and od 0.515
+calculated raw on_time of: 8.527370727797512 seconds
+
+processing well H11 with fl 50 and od 0.54
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 8495 and od 0.586
+calculated raw on_time of: -185.8556440399444 seconds
+
+processing well G9 with fl 1362 and od 0.5750000000000001
+calculated raw on_time of: 590.3294041867955 seconds
+
+processing well F9 with fl 1504 and od 0.59
+calculated raw on_time of: 578.7801632140615 seconds
+
+processing well E9 with fl 1337 and od 0.525
+calculated raw on_time of: 578.9392592592593 seconds
+
+processing well D9 with fl 10826 and od 0.5
+calculated raw on_time of: -643.8020740740742 seconds
+
+processing well C9 with fl 11019 and od 0.523
+calculated raw on_time of: -606.4794278025637 seconds
+
+processing well B9 with fl 11261 and od 0.534
+calculated raw on_time of: -607.7070328755722 seconds
+
+processing well A9 with fl -14 and od 0.05500000000000001
+calculated raw on_time of: 758.216835016835 seconds
+
+New duration setpoints calculated:  [0, np.float64(35.36294360989603), np.float64(29.824332428167008), np.float64(31.546877952940456), np.float64(47.26234944304382), np.float64(60.64582735920028), np.float64(8.527370727797512), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 8646 and od 0.539
+calculated raw on_time of: -284.28008942092737 seconds
+
+processing well B11 with fl 8818 and od 0.548
+calculated raw on_time of: -29.912130007478627 seconds
+
+processing well C11 with fl 8994 and od 0.552
+calculated raw on_time of: -45.24592704144977 seconds
+
+processing well D11 with fl 9194 and od 0.559
+calculated raw on_time of: -72.86244174074257 seconds
+
+processing well E11 with fl 6111 and od 0.54
+calculated raw on_time of: -2.109957146518391 seconds
+
+processing well F11 with fl 6551 and od 0.559
+calculated raw on_time of: -211.15504405444926 seconds
+
+processing well G11 with fl 6358 and od 0.555
+calculated raw on_time of: -95.1025026287777 seconds
+
+processing well H11 with fl 56 and od 0.5660000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 9255 and od 0.625
+calculated raw on_time of: -205.37984452296817 seconds
+
+processing well G9 with fl 1611 and od 0.62
+calculated raw on_time of: 576.0353812834835 seconds
+
+processing well F9 with fl 1838 and od 0.668
+calculated raw on_time of: 566.2363470937983 seconds
+
+processing well E9 with fl 1542 and od 0.56
+calculated raw on_time of: 566.1035840484603 seconds
+
+processing well D9 with fl 12120 and od 0.555
+calculated raw on_time of: -655.2894661445897 seconds
+
+processing well C9 with fl 12547 and od 0.5720000000000001
+calculated raw on_time of: -661.5279843831079 seconds
+
+processing well B9 with fl 12784 and od 0.5780000000000001
+calculated raw on_time of: -673.197256287674 seconds
+
+processing well A9 with fl -11 and od 0.05600000000000001
+calculated raw on_time of: 754.9035840484604 seconds
+
+New duration setpoints calculated:  [0, 0, 0, 0, 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 9228 and od 0.5700000000000001
+calculated raw on_time of: -293.37837509754604 seconds
+
+processing well B11 with fl 9902 and od 0.5780000000000001
+calculated raw on_time of: -86.90554182139445 seconds
+
+processing well C11 with fl 10146 and od 0.588
+calculated raw on_time of: -76.35114297750386 seconds
+
+processing well D11 with fl 10281 and od 0.591
+calculated raw on_time of: -77.94992848900611 seconds
+
+processing well E11 with fl 6845 and od 0.5670000000000001
+calculated raw on_time of: -132.7891121763844 seconds
+
+processing well F11 with fl 7366 and od 0.62
+calculated raw on_time of: -12.001896528184705 seconds
+
+processing well G11 with fl 7271 and od 0.597
+calculated raw on_time of: -128.97662490647434 seconds
+
+processing well H11 with fl 64 and od 0.607
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 9829 and od 0.656
+calculated raw on_time of: -216.17888857636507 seconds
+
+processing well G9 with fl 1900 and od 0.655
+calculated raw on_time of: 557.0990857300955 seconds
+
+processing well F9 with fl 2010 and od 0.652
+calculated raw on_time of: 545.4473271949951 seconds
+
+processing well E9 with fl 1783 and od 0.596
+calculated raw on_time of: 551.2848534436054 seconds
+
+processing well D9 with fl 13325 and od 0.5730000000000001
+calculated raw on_time of: -745.5592146309344 seconds
+
+processing well C9 with fl 13810 and od 0.602
+calculated raw on_time of: -725.4248167831555 seconds
+
+processing well B9 with fl 14085 and od 0.612
+calculated raw on_time of: -730.1932357786608 seconds
+
+processing well A9 with fl -12 and od 0.08
+calculated raw on_time of: 752.3479406919275 seconds
+
+New duration setpoints calculated:  [0, 0, 0, 0, 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 9672 and od 0.6
+calculated raw on_time of: -288.3307177033493 seconds
+
+processing well B11 with fl 10994 and od 0.609
+calculated raw on_time of: -92.66101925297988 seconds
+
+processing well C11 with fl 11317 and od 0.628
+calculated raw on_time of: -62.69400183050333 seconds
+
+processing well D11 with fl 11260 and od 0.623
+calculated raw on_time of: -47.455553192667416 seconds
+
+processing well E11 with fl 7642 and od 0.603
+calculated raw on_time of: -122.40476745220913 seconds
+
+processing well F11 with fl 8239 and od 0.637
+calculated raw on_time of: -213.04264306156605 seconds
+
+processing well G11 with fl 8102 and od 0.624
+calculated raw on_time of: -169.61587722712522 seconds
+
+processing well H11 with fl 72 and od 0.627
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 10347 and od 0.6900000000000001
+calculated raw on_time of: -216.372456833784 seconds
+
+processing well G9 with fl 2188 and od 0.687
+calculated raw on_time of: 539.518132369431 seconds
+
+processing well F9 with fl 2386 and od 0.6990000000000001
+calculated raw on_time of: 524.888624213675 seconds
+
+processing well E9 with fl 2049 and od 0.618
+calculated raw on_time of: 531.1551075393692 seconds
+
+processing well D9 with fl 14696 and od 0.619
+calculated raw on_time of: -776.1079067178888 seconds
+
+processing well C9 with fl 15093 and od 0.634
+calculated raw on_time of: -780.2343139178602 seconds
+
+processing well B9 with fl 15658 and od 0.65
+calculated raw on_time of: -798.3614869341185 seconds
+
+processing well A9 with fl -12 and od 0.084
+calculated raw on_time of: 752.4921394395079 seconds
+
+New duration setpoints calculated:  [0, 0, 0, 0, 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 10100 and od 0.63
+calculated raw on_time of: -282.80440576428686 seconds
+
+processing well B11 with fl 11910 and od 0.643
+calculated raw on_time of: -24.87047775547699 seconds
+
+processing well C11 with fl 12137 and od 0.652
+calculated raw on_time of: -51.54079459141536 seconds
+
+processing well D11 with fl 12185 and od 0.655
+calculated raw on_time of: -38.47847723414734 seconds
+
+processing well E11 with fl 8372 and od 0.642
+calculated raw on_time of: -92.8897196374101 seconds
+
+processing well F11 with fl 8925 and od 0.675
+calculated raw on_time of: -81.0885423222319 seconds
+
+processing well G11 with fl 8897 and od 0.656
+calculated raw on_time of: -148.46833134764222 seconds
+
+processing well H11 with fl 76 and od 0.673
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 10871 and od 0.725
+calculated raw on_time of: -216.419556284265 seconds
+
+processing well G9 with fl 2510 and od 0.72
+calculated raw on_time of: 520.116229156348 seconds
+
+processing well F9 with fl 2631 and od 0.709
+calculated raw on_time of: 505.7322767977836 seconds
+
+processing well E9 with fl 2345 and od 0.654
+calculated raw on_time of: 513.7472179433001 seconds
+
+processing well D9 with fl 15840 and od 0.641
+calculated raw on_time of: -838.301520886987 seconds
+
+processing well C9 with fl 16445 and od 0.663
+calculated raw on_time of: -844.2236401246977 seconds
+
+processing well B9 with fl 16797 and od 0.678
+calculated raw on_time of: -842.3301818564346 seconds
+
+processing well A9 with fl -13 and od 0.08600000000000001
+calculated raw on_time of: 752.9017588721103 seconds
+
+New duration setpoints calculated:  [0, 0, 0, 0, 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 10521 and od 0.661
+calculated raw on_time of: -275.34234486772647 seconds
+
+processing well B11 with fl 12770 and od 0.67
+calculated raw on_time of: -54.057653662667384 seconds
+
+processing well C11 with fl 12868 and od 0.679
+calculated raw on_time of: -13.123752688962224 seconds
+
+processing well D11 with fl 12774 and od 0.679
+calculated raw on_time of: 15.563241859412308 seconds
+
+processing well E11 with fl 8954 and od 0.673
+calculated raw on_time of: -81.9053206374626 seconds
+
+processing well F11 with fl 9475 and od 0.7010000000000001
+calculated raw on_time of: -91.68441106826472 seconds
+
+processing well G11 with fl 9596 and od 0.685
+calculated raw on_time of: -138.0920878234475 seconds
+
+processing well H11 with fl 81 and od 0.7070000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 11206 and od 0.756
+calculated raw on_time of: -205.3236942741893 seconds
+
+processing well G9 with fl 2785 and od 0.758
+calculated raw on_time of: 508.1872716483861 seconds
+
+processing well F9 with fl 2991 and od 0.751
+calculated raw on_time of: 488.4402465736397 seconds
+
+processing well E9 with fl 2611 and od 0.672
+calculated raw on_time of: 494.6657237152287 seconds
+
+processing well D9 with fl 17114 and od 0.668
+calculated raw on_time of: -896.3322802767873 seconds
+
+processing well C9 with fl 17607 and od 0.6930000000000001
+calculated raw on_time of: -882.7108996613948 seconds
+
+processing well B9 with fl 18163 and od 0.71
+calculated raw on_time of: -893.8957786321894 seconds
+
+processing well A9 with fl -13 and od 0.08800000000000001
+calculated raw on_time of: 752.7869358364408 seconds
+
+New duration setpoints calculated:  [0, 0, 0, np.float64(15.563241859412308), 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11056 and od 0.6930000000000001
+calculated raw on_time of: -277.3221255551352 seconds
+
+processing well B11 with fl 13618 and od 0.7070000000000001
+calculated raw on_time of: 3.3469559357815086 seconds
+
+processing well C11 with fl 13610 and od 0.7050000000000001
+calculated raw on_time of: -26.867895443400318 seconds
+
+processing well D11 with fl 13600 and od 0.711
+calculated raw on_time of: -13.4237833692552 seconds
+
+processing well E11 with fl 9625 and od 0.7060000000000001
+calculated raw on_time of: -104.32000918671004 seconds
+
+processing well F11 with fl 10126 and od 0.731
+calculated raw on_time of: -110.14391613857651 seconds
+
+processing well G11 with fl 10291 and od 0.712
+calculated raw on_time of: -152.18233767385178 seconds
+
+processing well H11 with fl 87 and od 0.721
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 11698 and od 0.796
+calculated raw on_time of: -196.82010607824137 seconds
+
+processing well G9 with fl 2803 and od 0.763
+calculated raw on_time of: 508.60858389851 seconds
+
+processing well F9 with fl 3099 and od 0.776
+calculated raw on_time of: 488.1349786236184 seconds
+
+processing well E9 with fl 2847 and od 0.708
+calculated raw on_time of: 486.36667528620796 seconds
+
+processing well D9 with fl 18607 and od 0.7050000000000001
+calculated raw on_time of: -945.4234918011823 seconds
+
+processing well C9 with fl 18998 and od 0.724
+calculated raw on_time of: -935.6586079800155 seconds
+
+processing well B9 with fl 19686 and od 0.747
+calculated raw on_time of: -942.8958664059846 seconds
+
+processing well A9 with fl -12 and od 0.06400000000000002
+calculated raw on_time of: 755.7226074895977 seconds
+
+New duration setpoints calculated:  [0, np.float64(3.3469559357815086), 0, 0, 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11516 and od 0.7060000000000001
+calculated raw on_time of: -299.93269031282176 seconds
+
+processing well B11 with fl 14546 and od 0.729
+calculated raw on_time of: -111.51950872029889 seconds
+
+processing well C11 with fl 14513 and od 0.727
+calculated raw on_time of: -105.77579264144573 seconds
+
+processing well D11 with fl 14424 and od 0.725
+calculated raw on_time of: -123.592476283789 seconds
+
+processing well E11 with fl 10133 and od 0.712
+calculated raw on_time of: -175.4471566367035 seconds
+
+processing well F11 with fl 10527 and od 0.747
+calculated raw on_time of: -100.9844169007612 seconds
+
+processing well G11 with fl 10612 and od 0.728
+calculated raw on_time of: -97.01390726640699 seconds
+
+processing well H11 with fl 94 and od 0.751
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12153 and od 0.81
+calculated raw on_time of: -216.22638457365485 seconds
+
+processing well G9 with fl 2884 and od 0.769
+calculated raw on_time of: 503.98984622150965 seconds
+
+processing well F9 with fl 3136 and od 0.786
+calculated raw on_time of: 488.66205195447634 seconds
+
+processing well E9 with fl 2949 and od 0.721
+calculated raw on_time of: 482.240888247016 seconds
+
+processing well D9 with fl 19825 and od 0.728
+calculated raw on_time of: -998.8464903937609 seconds
+
+processing well C9 with fl 20367 and od 0.749
+calculated raw on_time of: -996.2937534111172 seconds
+
+processing well B9 with fl 20681 and od 0.753
+calculated raw on_time of: -1013.7370234994332 seconds
+
+processing well A9 with fl -13 and od 0.09300000000000001
+calculated raw on_time of: 752.956889022522 seconds
+
+New duration setpoints calculated:  [0, 0, 0, 0, 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11846 and od 0.733
+calculated raw on_time of: -290.1273810676407 seconds
+
+processing well B11 with fl 14872 and od 0.744
+calculated raw on_time of: 9.86930145582647 seconds
+
+processing well C11 with fl 14813 and od 0.737
+calculated raw on_time of: -12.857059766899264 seconds
+
+processing well D11 with fl 14740 and od 0.741
+calculated raw on_time of: 20.627250110935226 seconds
+
+processing well E11 with fl 10440 and od 0.742
+calculated raw on_time of: -28.59305107108891 seconds
+
+processing well F11 with fl 10758 and od 0.773
+calculated raw on_time of: -18.549657763368156 seconds
+
+processing well G11 with fl 11010 and od 0.756
+calculated raw on_time of: -72.42195404313921 seconds
+
+processing well H11 with fl 99 and od 0.775
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12225 and od 0.8320000000000001
+calculated raw on_time of: -196.20913151364752 seconds
+
+processing well G9 with fl 2950 and od 0.783
+calculated raw on_time of: 503.0516013677749 seconds
+
+processing well F9 with fl 3098 and od 0.779
+calculated raw on_time of: 489.65430286968405 seconds
+
+processing well E9 with fl 3040 and od 0.731
+calculated raw on_time of: 478.01953311857375 seconds
+
+processing well D9 with fl 21714 and od 0.759
+calculated raw on_time of: -1086.7810378681627 seconds
+
+processing well C9 with fl 23051 and od 0.806
+calculated raw on_time of: -1086.1768734491313 seconds
+
+processing well B9 with fl 21742 and od 0.774
+calculated raw on_time of: -1053.6126298241227 seconds
+
+processing well A9 with fl -14 and od 0.078
+calculated raw on_time of: 755.6626633581473 seconds
+
+New duration setpoints calculated:  [0, np.float64(9.86930145582647), 0, np.float64(20.627250110935226), 0, 0, 0, 480, 0, 480, 480, np.float64(478.01953311857375), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11982 and od 0.75
+calculated raw on_time of: -277.9850191082803 seconds
+
+processing well B11 with fl 15188 and od 0.759
+calculated raw on_time of: 11.897612559991853 seconds
+
+processing well C11 with fl 14964 and od 0.754
+calculated raw on_time of: 68.4251755301162 seconds
+
+processing well D11 with fl 14948 and od 0.763
+calculated raw on_time of: 86.37151588823382 seconds
+
+processing well E11 with fl 10351 and od 0.744
+calculated raw on_time of: -24.81916470367554 seconds
+
+processing well F11 with fl 10813 and od 0.777
+calculated raw on_time of: -51.75902194418543 seconds
+
+processing well G11 with fl 11084 and od 0.765
+calculated raw on_time of: -59.22588197649104 seconds
+
+processing well H11 with fl 104 and od 0.785
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12405 and od 0.846
+calculated raw on_time of: -193.96073542033707 seconds
+
+processing well G9 with fl 3004 and od 0.794
+calculated raw on_time of: 502.3429607405863 seconds
+
+processing well F9 with fl 3057 and od 0.771
+calculated raw on_time of: 490.7202260279065 seconds
+
+processing well E9 with fl 3077 and od 0.739
+calculated raw on_time of: 477.9999551813003 seconds
+
+processing well D9 with fl 22802 and od 0.782
+calculated raw on_time of: -1121.6693567041882 seconds
+
+processing well C9 with fl 22110 and od 0.78
+calculated raw on_time of: -1069.6748652621263 seconds
+
+processing well B9 with fl 22402 and od 0.789
+calculated raw on_time of: -1072.6667732274184 seconds
+
+processing well A9 with fl -13 and od 0.09600000000000002
+calculated raw on_time of: 753.1456475583865 seconds
+
+New duration setpoints calculated:  [0, np.float64(11.897612559991853), np.float64(68.4251755301162), np.float64(86.37151588823382), 0, 0, 0, 480, 0, 480, 480, np.float64(477.9999551813003), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12010 and od 0.763
+calculated raw on_time of: -262.8638542555848 seconds
+
+processing well B11 with fl 15181 and od 0.771
+calculated raw on_time of: 85.2149137173266 seconds
+
+processing well C11 with fl 15042 and od 0.769
+calculated raw on_time of: 82.54326437547896 seconds
+
+processing well D11 with fl 14966 and od 0.776
+calculated raw on_time of: 95.81609473309447 seconds
+
+processing well E11 with fl 10438 and od 0.753
+calculated raw on_time of: -44.97787803905002 seconds
+
+processing well F11 with fl 10798 and od 0.795
+calculated raw on_time of: 19.954415682617334 seconds
+
+processing well G11 with fl 11074 and od 0.781
+calculated raw on_time of: -6.997591307584553 seconds
+
+processing well H11 with fl 107 and od 0.803
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12372 and od 0.859
+calculated raw on_time of: -177.25079264747876 seconds
+
+processing well G9 with fl 3045 and od 0.807
+calculated raw on_time of: 503.04103107769663 seconds
+
+processing well F9 with fl 3062 and od 0.777
+calculated raw on_time of: 492.31695171421205 seconds
+
+processing well E9 with fl 3106 and od 0.746
+calculated raw on_time of: 478.06153198962335 seconds
+
+processing well D9 with fl 23088 and od 0.793
+calculated raw on_time of: -1118.8162423698018 seconds
+
+processing well C9 with fl 22235 and od 0.791
+calculated raw on_time of: -1054.5111709723178 seconds
+
+processing well B9 with fl 22457 and od 0.793
+calculated raw on_time of: -1067.890643378629 seconds
+
+processing well A9 with fl -14 and od 0.09999999999999999
+calculated raw on_time of: 753.4880199252802 seconds
+
+New duration setpoints calculated:  [0, np.float64(85.2149137173266), np.float64(82.54326437547896), np.float64(95.81609473309447), 0, np.float64(19.954415682617334), 0, 480, 0, 480, 480, np.float64(478.06153198962335), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12046 and od 0.772
+calculated raw on_time of: -253.81261215720966 seconds
+
+processing well B11 with fl 15315 and od 0.786
+calculated raw on_time of: 70.54533806739856 seconds
+
+processing well C11 with fl 15227 and od 0.78
+calculated raw on_time of: 37.769651951763066 seconds
+
+processing well D11 with fl 15122 and od 0.786
+calculated raw on_time of: 49.33917565966877 seconds
+
+processing well E11 with fl 10499 and od 0.767
+calculated raw on_time of: -16.40440213357285 seconds
+
+processing well F11 with fl 10911 and od 0.809
+calculated raw on_time of: -21.85176111081839 seconds
+
+processing well G11 with fl 11165 and od 0.795
+calculated raw on_time of: -35.70230019099116 seconds
+
+processing well H11 with fl 113 and od 0.8200000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12417 and od 0.872
+calculated raw on_time of: -166.5199373461624 seconds
+
+processing well G9 with fl 3074 and od 0.8150000000000001
+calculated raw on_time of: 503.4256471644471 seconds
+
+processing well F9 with fl 3075 and od 0.783
+calculated raw on_time of: 493.47851602653964 seconds
+
+processing well E9 with fl 3131 and od 0.753
+calculated raw on_time of: 478.7053023677647 seconds
+
+processing well D9 with fl 23287 and od 0.804
+calculated raw on_time of: -1108.8720300934351 seconds
+
+processing well C9 with fl 22328 and od 0.797
+calculated raw on_time of: -1048.1441013556935 seconds
+
+processing well B9 with fl 22587 and od 0.801
+calculated raw on_time of: -1059.884607655065 seconds
+
+processing well A9 with fl -13 and od 0.09999999999999999
+calculated raw on_time of: 753.1395121951219 seconds
+
+New duration setpoints calculated:  [0, np.float64(70.54533806739856), np.float64(37.769651951763066), np.float64(49.33917565966877), 0, 0, 0, 480, 0, 480, 480, np.float64(478.7053023677647), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12199 and od 0.787
+calculated raw on_time of: -247.01796061750153 seconds
+
+processing well B11 with fl 15523 and od 0.798
+calculated raw on_time of: 38.52502866040531 seconds
+
+processing well C11 with fl 15394 and od 0.794
+calculated raw on_time of: 59.45977943257008 seconds
+
+processing well D11 with fl 15353 and od 0.801
+calculated raw on_time of: 55.9420779067959 seconds
+
+processing well E11 with fl 10645 and od 0.78
+calculated raw on_time of: -41.06968797694476 seconds
+
+processing well F11 with fl 10998 and od 0.8250000000000001
+calculated raw on_time of: -6.3507186481068345 seconds
+
+processing well G11 with fl 11206 and od 0.811
+calculated raw on_time of: -12.427008176933775 seconds
+
+processing well H11 with fl 118 and od 0.837
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12607 and od 0.893
+calculated raw on_time of: -158.5024958491707 seconds
+
+processing well G9 with fl 3153 and od 0.8290000000000001
+calculated raw on_time of: 501.6065360663984 seconds
+
+processing well F9 with fl 3111 and od 0.79
+calculated raw on_time of: 492.99232037263886 seconds
+
+processing well E9 with fl 3187 and od 0.762
+calculated raw on_time of: 477.3481594370596 seconds
+
+processing well D9 with fl 23193 and od 0.804
+calculated raw on_time of: -1101.1862551044062 seconds
+
+processing well C9 with fl 22726 and od 0.808
+calculated raw on_time of: -1055.0565078013178 seconds
+
+processing well B9 with fl 22961 and od 0.8140000000000001
+calculated raw on_time of: -1060.264769167995 seconds
+
+processing well A9 with fl -13 and od 0.083
+calculated raw on_time of: 755.0467965050166 seconds
+
+New duration setpoints calculated:  [0, np.float64(38.52502866040531), np.float64(59.45977943257008), np.float64(55.9420779067959), 0, 0, 0, 480, 0, 480, 480, np.float64(477.3481594370596), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12350 and od 0.804
+calculated raw on_time of: -238.0916028755519 seconds
+
+processing well B11 with fl 15720 and od 0.8160000000000001
+calculated raw on_time of: 72.75096111396421 seconds
+
+processing well C11 with fl 15561 and od 0.805
+calculated raw on_time of: 45.90795721707208 seconds
+
+processing well D11 with fl 15455 and od 0.8140000000000001
+calculated raw on_time of: 81.3362572675414 seconds
+
+processing well E11 with fl 10672 and od 0.79
+calculated raw on_time of: -19.80649493200685 seconds
+
+processing well F11 with fl 11094 and od 0.839
+calculated raw on_time of: -13.353486845601823 seconds
+
+processing well G11 with fl 11261 and od 0.8230000000000001
+calculated raw on_time of: -27.023717682876992 seconds
+
+processing well H11 with fl 120 and od 0.854
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12635 and od 0.915
+calculated raw on_time of: -138.76658860265417 seconds
+
+processing well G9 with fl 3195 and od 0.845
+calculated raw on_time of: 503.0048085584025 seconds
+
+processing well F9 with fl 3186 and od 0.805
+calculated raw on_time of: 491.696079828938 seconds
+
+processing well E9 with fl 3225 and od 0.773
+calculated raw on_time of: 477.98133128932864 seconds
+
+processing well D9 with fl 23441 and od 0.812
+calculated raw on_time of: -1102.5735282241783 seconds
+
+processing well C9 with fl 23063 and od 0.8200000000000001
+calculated raw on_time of: -1055.046050151368 seconds
+
+processing well B9 with fl 23169 and od 0.8250000000000001
+calculated raw on_time of: -1052.3597530338513 seconds
+
+processing well A9 with fl -13 and od 0.074
+calculated raw on_time of: 756.2362174821191 seconds
+
+New duration setpoints calculated:  [0, np.float64(72.75096111396421), np.float64(45.90795721707208), np.float64(81.3362572675414), 0, 0, 0, 480, 0, 480, 480, np.float64(477.98133128932864), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12285 and od 0.807
+calculated raw on_time of: -229.03565631708457 seconds
+
+processing well B11 with fl 15807 and od 0.8160000000000001
+calculated raw on_time of: 14.5981711792996 seconds
+
+processing well C11 with fl 15609 and od 0.809
+calculated raw on_time of: 43.71448231639773 seconds
+
+processing well D11 with fl 15562 and od 0.8140000000000001
+calculated raw on_time of: 19.125172323809405 seconds
+
+processing well E11 with fl 10674 and od 0.793
+calculated raw on_time of: -35.05698442845415 seconds
+
+processing well F11 with fl 11130 and od 0.84
+calculated raw on_time of: -39.41243346218982 seconds
+
+processing well G11 with fl 11315 and od 0.8250000000000001
+calculated raw on_time of: -59.4312755915463 seconds
+
+processing well H11 with fl 123 and od 0.852
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12662 and od 0.9099999999999999
+calculated raw on_time of: -145.2748490945675 seconds
+
+processing well G9 with fl 3214 and od 0.842
+calculated raw on_time of: 500.9448998026162 seconds
+
+processing well F9 with fl 3174 and od 0.801
+calculated raw on_time of: 491.63644036503666 seconds
+
+processing well E9 with fl 3203 and od 0.769
+calculated raw on_time of: 478.6698657484569 seconds
+
+processing well D9 with fl 23399 and od 0.81
+calculated raw on_time of: -1103.5704399234914 seconds
+
+processing well C9 with fl 23137 and od 0.8220000000000001
+calculated raw on_time of: -1056.1814879544909 seconds
+
+processing well B9 with fl 23454 and od 0.8280000000000001
+calculated raw on_time of: -1067.6301285976729 seconds
+
+processing well A9 with fl -12 and od 0.104
+calculated raw on_time of: 752.6240520043337 seconds
+
+New duration setpoints calculated:  [0, np.float64(14.5981711792996), np.float64(43.71448231639773), np.float64(19.125172323809405), 0, 0, 0, 480, 0, 480, 480, np.float64(478.6698657484569), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12268 and od 0.8180000000000001
+calculated raw on_time of: -214.51018744906258 seconds
+
+processing well B11 with fl 15839 and od 0.8240000000000001
+calculated raw on_time of: 66.82963958480678 seconds
+
+processing well C11 with fl 15598 and od 0.8190000000000001
+calculated raw on_time of: 91.08646461504097 seconds
+
+processing well D11 with fl 15535 and od 0.8260000000000001
+calculated raw on_time of: 111.66236867840675 seconds
+
+processing well E11 with fl 10629 and od 0.8
+calculated raw on_time of: -7.039361444832883 seconds
+
+processing well F11 with fl 11082 and od 0.849
+calculated raw on_time of: 8.002262376201095 seconds
+
+processing well G11 with fl 11269 and od 0.838
+calculated raw on_time of: 4.325242424504819 seconds
+
+processing well H11 with fl 126 and od 0.864
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12624 and od 0.9199999999999999
+calculated raw on_time of: -132.8579710144928 seconds
+
+processing well G9 with fl 3198 and od 0.846
+calculated raw on_time of: 503.40425531914894 seconds
+
+processing well F9 with fl 3155 and od 0.802
+calculated raw on_time of: 493.56275976724856 seconds
+
+processing well E9 with fl 3194 and od 0.77
+calculated raw on_time of: 479.85800865800866 seconds
+
+processing well D9 with fl 23385 and od 0.8150000000000001
+calculated raw on_time of: -1091.034764826176 seconds
+
+processing well C9 with fl 23097 and od 0.8300000000000001
+calculated raw on_time of: -1035.6401606425702 seconds
+
+processing well B9 with fl 23476 and od 0.836
+calculated raw on_time of: -1051.872408293461 seconds
+
+processing well A9 with fl -14 and od 0.106
+calculated raw on_time of: 753.7861635220125 seconds
+
+New duration setpoints calculated:  [0, np.float64(66.82963958480678), np.float64(91.08646461504097), np.float64(111.66236867840675), 0, np.float64(8.002262376201095), np.float64(4.325242424504819), 480, 0, 480, 480, np.float64(479.85800865800866), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12361 and od 0.8320000000000001
+calculated raw on_time of: -205.5488565488565 seconds
+
+processing well B11 with fl 15930 and od 0.842
+calculated raw on_time of: 104.84539844877597 seconds
+
+processing well C11 with fl 15750 and od 0.833
+calculated raw on_time of: 73.9886797092885 seconds
+
+processing well D11 with fl 15745 and od 0.841
+calculated raw on_time of: 71.68062996496181 seconds
+
+processing well E11 with fl 10658 and od 0.8150000000000001
+calculated raw on_time of: 5.153700336423845 seconds
+
+processing well F11 with fl 11080 and od 0.869
+calculated raw on_time of: 36.64088344635966 seconds
+
+processing well G11 with fl 11265 and od 0.855
+calculated raw on_time of: 12.739370888333207 seconds
+
+processing well H11 with fl 129 and od 0.888
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12701 and od 0.948
+calculated raw on_time of: -112.15417949595175 seconds
+
+processing well G9 with fl 3240 and od 0.864
+calculated raw on_time of: 505.2972972972973 seconds
+
+processing well F9 with fl 3163 and od 0.8130000000000001
+calculated raw on_time of: 496.30344735879794 seconds
+
+processing well E9 with fl 3213 and od 0.78
+calculated raw on_time of: 481.66652806652803 seconds
+
+processing well D9 with fl 23467 and od 0.8270000000000001
+calculated raw on_time of: -1070.7704173338998 seconds
+
+processing well C9 with fl 23179 and od 0.84
+calculated raw on_time of: -1020.7217503217503 seconds
+
+processing well B9 with fl 23651 and od 0.851
+calculated raw on_time of: -1033.3913043478262 seconds
+
+processing well A9 with fl -13 and od 0.077
+calculated raw on_time of: 756.1024921024922 seconds
+
+New duration setpoints calculated:  [0, np.float64(104.84539844877597), np.float64(73.9886797092885), np.float64(71.68062996496181), np.float64(5.153700336423845), np.float64(36.64088344635966), np.float64(12.739370888333207), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12436 and od 0.837
+calculated raw on_time of: -205.08798400902992 seconds
+
+processing well B11 with fl 16067 and od 0.845
+calculated raw on_time of: 28.68767790826709 seconds
+
+processing well C11 with fl 15957 and od 0.838
+calculated raw on_time of: 20.280142118460216 seconds
+
+processing well D11 with fl 15972 and od 0.845
+calculated raw on_time of: 17.715865507938727 seconds
+
+processing well E11 with fl 10809 and od 0.8180000000000001
+calculated raw on_time of: -63.02401976412682 seconds
+
+processing well F11 with fl 11156 and od 0.871
+calculated raw on_time of: -31.702452540472738 seconds
+
+processing well G11 with fl 11387 and od 0.858
+calculated raw on_time of: -58.42685800578208 seconds
+
+processing well H11 with fl 136 and od 0.887
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12771 and od 0.9490000000000001
+calculated raw on_time of: -115.45585158767959 seconds
+
+processing well G9 with fl 3284 and od 0.863
+calculated raw on_time of: 502.27171673758073 seconds
+
+processing well F9 with fl 3198 and od 0.812
+calculated raw on_time of: 493.75373901066865 seconds
+
+processing well E9 with fl 3247 and od 0.779
+calculated raw on_time of: 479.05033626494816 seconds
+
+processing well D9 with fl 23731 and od 0.8320000000000001
+calculated raw on_time of: -1079.6486861503772 seconds
+
+processing well C9 with fl 23657 and od 0.843
+calculated raw on_time of: -1050.210872481247 seconds
+
+processing well B9 with fl 23912 and od 0.853
+calculated raw on_time of: -1048.2879683218987 seconds
+
+processing well A9 with fl -12 and od 0.08700000000000001
+calculated raw on_time of: 754.6404385180579 seconds
+
+New duration setpoints calculated:  [0, np.float64(28.68767790826709), np.float64(20.280142118460216), np.float64(17.715865507938727), 0, 0, 0, 480, 0, 480, 480, np.float64(479.05033626494816), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12475 and od 0.837
+calculated raw on_time of: -208.25777488143078 seconds
+
+processing well B11 with fl 16237 and od 0.844
+calculated raw on_time of: -5.118927376099113 seconds
+
+processing well C11 with fl 16115 and od 0.839
+calculated raw on_time of: 6.70167383138754 seconds
+
+processing well D11 with fl 16202 and od 0.848
+calculated raw on_time of: 4.283170677337694 seconds
+
+processing well E11 with fl 10885 and od 0.8210000000000001
+calculated raw on_time of: -49.91225212299384 seconds
+
+processing well F11 with fl 11288 and od 0.873
+calculated raw on_time of: -50.31403653290865 seconds
+
+processing well G11 with fl 11468 and od 0.861
+calculated raw on_time of: -53.74657819872677 seconds
+
+processing well H11 with fl 134 and od 0.891
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12842 and od 0.9510000000000001
+calculated raw on_time of: -118.61040124341903 seconds
+
+processing well G9 with fl 3308 and od 0.861
+calculated raw on_time of: 499.734315669275 seconds
+
+processing well F9 with fl 3213 and od 0.8130000000000001
+calculated raw on_time of: 492.695250992914 seconds
+
+processing well E9 with fl 3243 and od 0.775
+calculated raw on_time of: 477.81610803374247 seconds
+
+processing well D9 with fl 24062 and od 0.835
+calculated raw on_time of: -1098.6479136004086 seconds
+
+processing well C9 with fl 23880 and od 0.849
+calculated raw on_time of: -1054.5162024643769 seconds
+
+processing well B9 with fl 24229 and od 0.857
+calculated raw on_time of: -1063.7750930804218 seconds
+
+processing well A9 with fl -12 and od 0.109
+calculated raw on_time of: 752.67101185144 seconds
+
+New duration setpoints calculated:  [0, 0, np.float64(6.70167383138754), np.float64(4.283170677337694), 0, 0, 0, 480, 0, 480, 480, np.float64(477.81610803374247), 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12389 and od 0.845
+calculated raw on_time of: -192.3987967339923 seconds
+
+processing well B11 with fl 16248 and od 0.853
+calculated raw on_time of: 80.29574985879151 seconds
+
+processing well C11 with fl 16200 and od 0.845
+calculated raw on_time of: 47.14937601731319 seconds
+
+processing well D11 with fl 16161 and od 0.854
+calculated raw on_time of: 84.34003797229957 seconds
+
+processing well E11 with fl 10822 and od 0.8250000000000001
+calculated raw on_time of: -9.647026871390956 seconds
+
+processing well F11 with fl 11206 and od 0.878
+calculated raw on_time of: 10.506258673655006 seconds
+
+processing well G11 with fl 11403 and od 0.868
+calculated raw on_time of: -3.660255724596998 seconds
+
+processing well H11 with fl 139 and od 0.895
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12834 and od 0.96
+calculated raw on_time of: -109.66033519553068 seconds
+
+processing well G9 with fl 3298 and od 0.867
+calculated raw on_time of: 502.4886844123124 seconds
+
+processing well F9 with fl 3209 and od 0.8210000000000001
+calculated raw on_time of: 495.78619342809907 seconds
+
+processing well E9 with fl 3226 and od 0.781
+calculated raw on_time of: 481.5811500797574 seconds
+
+processing well D9 with fl 24026 and od 0.843
+calculated raw on_time of: -1078.0982948633837 seconds
+
+processing well C9 with fl 24020 and od 0.856
+calculated raw on_time of: -1049.9481856628204 seconds
+
+processing well B9 with fl 24251 and od 0.864
+calculated raw on_time of: -1050.430705565901 seconds
+
+processing well A9 with fl -13 and od 0.112
+calculated raw on_time of: 753.3682362330408 seconds
+
+New duration setpoints calculated:  [0, np.float64(80.29574985879151), np.float64(47.14937601731319), np.float64(84.34003797229957), 0, np.float64(10.506258673655006), 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12299 and od 0.858
+calculated raw on_time of: -171.71729359964655 seconds
+
+processing well B11 with fl 16332 and od 0.872
+calculated raw on_time of: 112.82084755379366 seconds
+
+processing well C11 with fl 16056 and od 0.86
+calculated raw on_time of: 149.01641664854588 seconds
+
+processing well D11 with fl 16137 and od 0.871
+calculated raw on_time of: 135.63074557070786 seconds
+
+processing well E11 with fl 10719 and od 0.84
+calculated raw on_time of: 40.12514250251948 seconds
+
+processing well F11 with fl 11153 and od 0.897
+calculated raw on_time of: 49.422236954074876 seconds
+
+processing well G11 with fl 11270 and od 0.884
+calculated raw on_time of: 45.179061366467444 seconds
+
+processing well H11 with fl 139 and od 0.9179999999999999
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12730 and od 0.9870000000000001
+calculated raw on_time of: -79.76022938726307 seconds
+
+processing well G9 with fl 3270 and od 0.881
+calculated raw on_time of: 508.1423911726376 seconds
+
+processing well F9 with fl 3186 and od 0.8300000000000001
+calculated raw on_time of: 500.0231619287608 seconds
+
+processing well E9 with fl 3210 and od 0.791
+calculated raw on_time of: 485.96876075897427 seconds
+
+processing well D9 with fl 23888 and od 0.853
+calculated raw on_time of: -1046.6094854250155 seconds
+
+processing well C9 with fl 23922 and od 0.867
+calculated raw on_time of: -1020.1778803024479 seconds
+
+processing well B9 with fl 24322 and od 0.876
+calculated raw on_time of: -1031.2591398812187 seconds
+
+processing well A9 with fl -13 and od 0.082
+calculated raw on_time of: 755.8369732716935 seconds
+
+New duration setpoints calculated:  [0, np.float64(112.82084755379366), np.float64(149.01641664854588), np.float64(135.63074557070786), np.float64(40.12514250251948), np.float64(49.422236954074876), np.float64(45.179061366467444), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12213 and od 0.858
+calculated raw on_time of: -165.02976374976384 seconds
+
+processing well B11 with fl 16308 and od 0.873
+calculated raw on_time of: 65.26670661728878 seconds
+
+processing well C11 with fl 16130 and od 0.866
+calculated raw on_time of: 65.91400255990736 seconds
+
+processing well D11 with fl 16222 and od 0.873
+calculated raw on_time of: 50.555921355281285 seconds
+
+processing well E11 with fl 10755 and od 0.846
+calculated raw on_time of: -15.278010460444209 seconds
+
+processing well F11 with fl 11146 and od 0.9039999999999999
+calculated raw on_time of: 11.682442776080242 seconds
+
+processing well G11 with fl 11270 and od 0.891
+calculated raw on_time of: -4.61459093145338 seconds
+
+processing well H11 with fl 144 and od 0.925
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12830 and od 0.996
+calculated raw on_time of: -78.45442743948777 seconds
+
+processing well G9 with fl 3295 and od 0.884
+calculated raw on_time of: 507.4112070441482 seconds
+
+processing well F9 with fl 3178 and od 0.8320000000000001
+calculated raw on_time of: 501.5017047817048 seconds
+
+processing well E9 with fl 3190 and od 0.79
+calculated raw on_time of: 487.53286349640786 seconds
+
+processing well D9 with fl 24183 and od 0.86
+calculated raw on_time of: -1053.7018730358266 seconds
+
+processing well C9 with fl 24098 and od 0.873
+calculated raw on_time of: -1020.6713501129996 seconds
+
+processing well B9 with fl 24495 and od 0.878
+calculated raw on_time of: -1039.5492852305608 seconds
+
+processing well A9 with fl -11 and od 0.083
+calculated raw on_time of: 754.4451709540866 seconds
+
+New duration setpoints calculated:  [0, np.float64(65.26670661728878), np.float64(65.91400255990736), np.float64(50.555921355281285), 0, np.float64(11.682442776080242), 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12358 and od 0.86
+calculated raw on_time of: -173.23185588519672 seconds
+
+processing well B11 with fl 16509 and od 0.868
+calculated raw on_time of: -17.88506677763018 seconds
+
+processing well C11 with fl 16316 and od 0.866
+calculated raw on_time of: 11.148867076504931 seconds
+
+processing well D11 with fl 16397 and od 0.872
+calculated raw on_time of: 12.816066246417948 seconds
+
+processing well E11 with fl 10764 and od 0.842
+calculated raw on_time of: -39.60947585185456 seconds
+
+processing well F11 with fl 11212 and od 0.8959999999999999
+calculated raw on_time of: -47.863435467974234 seconds
+
+processing well G11 with fl 11374 and od 0.887
+calculated raw on_time of: -61.488356897367055 seconds
+
+processing well H11 with fl 149 and od 0.9139999999999999
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12886 and od 0.982
+calculated raw on_time of: -93.38751353688049 seconds
+
+processing well G9 with fl 3317 and od 0.875
+calculated raw on_time of: 503.8184032510159 seconds
+
+processing well F9 with fl 3196 and od 0.8270000000000001
+calculated raw on_time of: 499.1007331871017 seconds
+
+processing well E9 with fl 3226 and od 0.788
+calculated raw on_time of: 484.42310810960913 seconds
+
+processing well D9 with fl 24357 and od 0.854
+calculated raw on_time of: -1078.9156857419584 seconds
+
+processing well C9 with fl 24506 and od 0.873
+calculated raw on_time of: -1050.111985883332 seconds
+
+processing well B9 with fl 24773 and od 0.879
+calculated raw on_time of: -1057.2891514377538 seconds
+
+processing well A9 with fl -12 and od 0.112
+calculated raw on_time of: 753.290403251016 seconds
+
+New duration setpoints calculated:  [0, 0, np.float64(11.148867076504931), np.float64(12.816066246417948), 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12330 and od 0.859
+calculated raw on_time of: -172.27309635796362 seconds
+
+processing well B11 with fl 16507 and od 0.868
+calculated raw on_time of: 44.710045633646104 seconds
+
+processing well C11 with fl 16416 and od 0.866
+calculated raw on_time of: 24.459170540238212 seconds
+
+processing well D11 with fl 16383 and od 0.873
+calculated raw on_time of: 61.23046125962103 seconds
+
+processing well E11 with fl 10780 and od 0.849
+calculated raw on_time of: -9.223700023882829 seconds
+
+processing well F11 with fl 11217 and od 0.899
+calculated raw on_time of: -7.259461231741951 seconds
+
+processing well G11 with fl 11366 and od 0.891
+calculated raw on_time of: -16.110053358431948 seconds
+
+processing well H11 with fl 149 and od 0.919
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12907 and od 0.99
+calculated raw on_time of: -88.01542300040659 seconds
+
+processing well G9 with fl 3330 and od 0.878
+calculated raw on_time of: 503.6430109978906 seconds
+
+processing well F9 with fl 3175 and od 0.8290000000000001
+calculated raw on_time of: 501.2619002928394 seconds
+
+processing well E9 with fl 3230 and od 0.789
+calculated raw on_time of: 484.3739613372666 seconds
+
+processing well D9 with fl 24441 and od 0.863
+calculated raw on_time of: -1066.1657981306196 seconds
+
+processing well C9 with fl 24590 and od 0.876
+calculated raw on_time of: -1050.1531841737842 seconds
+
+processing well B9 with fl 25084 and od 0.881
+calculated raw on_time of: -1075.8437081217678 seconds
+
+processing well A9 with fl -11 and od 0.115
+calculated raw on_time of: 752.4982353219473 seconds
+
+New duration setpoints calculated:  [0, np.float64(44.710045633646104), np.float64(24.459170540238212), np.float64(61.23046125962103), 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12288 and od 0.864
+calculated raw on_time of: -163.69408369408373 seconds
+
+processing well B11 with fl 16506 and od 0.872
+calculated raw on_time of: 64.28910882218833 seconds
+
+processing well C11 with fl 16383 and od 0.868
+calculated raw on_time of: 64.75351175646932 seconds
+
+processing well D11 with fl 16344 and od 0.879
+calculated raw on_time of: 92.8127082934347 seconds
+
+processing well E11 with fl 10781 and od 0.852
+calculated raw on_time of: -15.678140499040286 seconds
+
+processing well F11 with fl 11183 and od 0.903
+calculated raw on_time of: 6.742575509062861 seconds
+
+processing well G11 with fl 11341 and od 0.8959999999999999
+calculated raw on_time of: -6.581729349864022 seconds
+
+processing well H11 with fl 152 and od 0.9239999999999999
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12864 and od 0.9950000000000001
+calculated raw on_time of: -80.90502730100707 seconds
+
+processing well G9 with fl 3318 and od 0.88
+calculated raw on_time of: 505.21904761904756 seconds
+
+processing well F9 with fl 3157 and od 0.833
+calculated raw on_time of: 503.97351667939904 seconds
+
+processing well E9 with fl 3200 and od 0.791
+calculated raw on_time of: 487.61536988085663 seconds
+
+processing well D9 with fl 24443 and od 0.865
+calculated raw on_time of: -1061.9712834371794 seconds
+
+processing well C9 with fl 24587 and od 0.882
+calculated raw on_time of: -1037.562564419707 seconds
+
+processing well B9 with fl 24947 and od 0.885
+calculated raw on_time of: -1057.5486976300533 seconds
+
+processing well A9 with fl -14 and od 0.11900000000000001
+calculated raw on_time of: 754.0575502928444 seconds
+
+New duration setpoints calculated:  [0, np.float64(64.28910882218833), np.float64(64.75351175646932), np.float64(92.8127082934347), 0, np.float64(6.742575509062861), 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12225 and od 0.876
+calculated raw on_time of: -146.95659210450262 seconds
+
+processing well B11 with fl 16535 and od 0.892
+calculated raw on_time of: 132.32963948864042 seconds
+
+processing well C11 with fl 16352 and od 0.885
+calculated raw on_time of: 135.32873733850042 seconds
+
+processing well D11 with fl 16322 and od 0.894
+calculated raw on_time of: 132.98405822219624 seconds
+
+processing well E11 with fl 10617 and od 0.863
+calculated raw on_time of: 51.540853531937884 seconds
+
+processing well F11 with fl 11087 and od 0.9219999999999999
+calculated raw on_time of: 66.55051130880125 seconds
+
+processing well G11 with fl 11223 and od 0.9139999999999999
+calculated raw on_time of: 56.14484728275532 seconds
+
+processing well H11 with fl 151 and od 0.948
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12790 and od 1.02
+calculated raw on_time of: -56.31571109456429 seconds
+
+processing well G9 with fl 3285 and od 0.895
+calculated raw on_time of: 511.28906489404335 seconds
+
+processing well F9 with fl 3150 and od 0.844
+calculated raw on_time of: 507.3315335852981 seconds
+
+processing well E9 with fl 3176 and od 0.801
+calculated raw on_time of: 492.4312963226347 seconds
+
+processing well D9 with fl 24411 and od 0.878
+calculated raw on_time of: -1033.1954288130871 seconds
+
+processing well C9 with fl 24589 and od 0.89
+calculated raw on_time of: -1022.0036599819847 seconds
+
+processing well B9 with fl 24904 and od 0.8979999999999999
+calculated raw on_time of: -1028.7012301128623 seconds
+
+processing well A9 with fl -14 and od 0.09300000000000001
+calculated raw on_time of: 755.8285014291548 seconds
+
+New duration setpoints calculated:  [0, np.float64(132.32963948864042), np.float64(135.32873733850042), np.float64(132.98405822219624), np.float64(51.540853531937884), np.float64(66.55051130880125), np.float64(56.14484728275532), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12190 and od 0.872
+calculated raw on_time of: -148.10379178643146 seconds
+
+processing well B11 with fl 16483 and od 0.879
+calculated raw on_time of: 13.539615129248102 seconds
+
+processing well C11 with fl 16384 and od 0.879
+calculated raw on_time of: 27.058279783743984 seconds
+
+processing well D11 with fl 16361 and od 0.888
+calculated raw on_time of: 35.24248704901807 seconds
+
+processing well E11 with fl 10597 and od 0.861
+calculated raw on_time of: -13.74254910472129 seconds
+
+processing well F11 with fl 11027 and od 0.9119999999999999
+calculated raw on_time of: -13.499330820566959 seconds
+
+processing well G11 with fl 11201 and od 0.905
+calculated raw on_time of: -34.59438531119102 seconds
+
+processing well H11 with fl 154 and od 0.9319999999999999
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12795 and od 1.004
+calculated raw on_time of: -69.04242258434067 seconds
+
+processing well G9 with fl 3281 and od 0.886
+calculated raw on_time of: 509.5728499597942 seconds
+
+processing well F9 with fl 3115 and od 0.837
+calculated raw on_time of: 508.3911168540824 seconds
+
+processing well E9 with fl 3172 and od 0.796
+calculated raw on_time of: 491.53993141674044 seconds
+
+processing well D9 with fl 24569 and od 0.871
+calculated raw on_time of: -1058.724548272175 seconds
+
+processing well C9 with fl 24693 and od 0.889
+calculated raw on_time of: -1031.0986834800156 seconds
+
+processing well B9 with fl 24995 and od 0.892
+calculated raw on_time of: -1046.7881214034142 seconds
+
+processing well A9 with fl -14 and od 0.12200000000000001
+calculated raw on_time of: 753.9193695912194 seconds
+
+New duration setpoints calculated:  [0, np.float64(13.539615129248102), np.float64(27.058279783743984), np.float64(35.24248704901807), 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12199 and od 0.873
+calculated raw on_time of: -147.43043779211155 seconds
+
+processing well B11 with fl 16658 and od 0.884
+calculated raw on_time of: 33.643096307437844 seconds
+
+processing well C11 with fl 16484 and od 0.88
+calculated raw on_time of: 37.215786601379385 seconds
+
+processing well D11 with fl 16533 and od 0.89
+calculated raw on_time of: 33.29604053790353 seconds
+
+processing well E11 with fl 10657 and od 0.863
+calculated raw on_time of: -22.11109749932825 seconds
+
+processing well F11 with fl 11106 and od 0.9139999999999999
+calculated raw on_time of: -14.531065487807025 seconds
+
+processing well G11 with fl 11253 and od 0.909
+calculated raw on_time of: -17.164120971862783 seconds
+
+processing well H11 with fl 159 and od 0.935
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12794 and od 1.01
+calculated raw on_time of: -63.82548843119608 seconds
+
+processing well G9 with fl 3283 and od 0.89
+calculated raw on_time of: 510.80252358348855 seconds
+
+processing well F9 with fl 3136 and od 0.841
+calculated raw on_time of: 508.2341953493104 seconds
+
+processing well E9 with fl 3159 and od 0.797
+calculated raw on_time of: 493.2121552076973 seconds
+
+processing well D9 with fl 24693 and od 0.877
+calculated raw on_time of: -1055.1142970383964 seconds
+
+processing well C9 with fl 24809 and od 0.894
+calculated raw on_time of: -1029.152371723552 seconds
+
+processing well B9 with fl 25273 and od 0.894
+calculated raw on_time of: -1062.3693739606886 seconds
+
+processing well A9 with fl -13 and od 0.12300000000000001
+calculated raw on_time of: 753.6476501021695 seconds
+
+New duration setpoints calculated:  [0, np.float64(33.643096307437844), np.float64(37.215786601379385), np.float64(33.29604053790353), 0, 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12142 and od 0.877
+calculated raw on_time of: -139.18163953516586 seconds
+
+processing well B11 with fl 16677 and od 0.886
+calculated raw on_time of: 54.638956811729564 seconds
+
+processing well C11 with fl 16612 and od 0.884
+calculated raw on_time of: 40.48297908748326 seconds
+
+processing well D11 with fl 16639 and od 0.891
+calculated raw on_time of: 39.41520421240182 seconds
+
+processing well E11 with fl 10620 and od 0.867
+calculated raw on_time of: 6.401433159374739 seconds
+
+processing well F11 with fl 11058 and od 0.917
+calculated raw on_time of: 15.973761828167005 seconds
+
+processing well G11 with fl 11298 and od 0.9139999999999999
+calculated raw on_time of: -13.75344509504862 seconds
+
+processing well H11 with fl 160 and od 0.94
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12883 and od 1.012
+calculated raw on_time of: -67.84156084433606 seconds
+
+processing well G9 with fl 3293 and od 0.892
+calculated raw on_time of: 510.62455872531245 seconds
+
+processing well F9 with fl 3127 and od 0.842
+calculated raw on_time of: 509.2119068074998 seconds
+
+processing well E9 with fl 3162 and od 0.799
+calculated raw on_time of: 493.6170212765958 seconds
+
+processing well D9 with fl 24955 and od 0.877
+calculated raw on_time of: -1074.2238288168078 seconds
+
+processing well C9 with fl 25159 and od 0.895
+calculated raw on_time of: -1052.1857125876618 seconds
+
+processing well B9 with fl 25419 and od 0.897
+calculated raw on_time of: -1066.7251120757132 seconds
+
+processing well A9 with fl -13 and od 0.126
+calculated raw on_time of: 753.4967916244511 seconds
+
+New duration setpoints calculated:  [0, np.float64(54.638956811729564), np.float64(40.48297908748326), np.float64(39.41520421240182), np.float64(6.401433159374739), np.float64(15.973761828167005), 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12155 and od 0.885
+calculated raw on_time of: -132.0919655069879 seconds
+
+processing well B11 with fl 16650 and od 0.897
+calculated raw on_time of: 108.15632116375114 seconds
+
+processing well C11 with fl 16529 and od 0.894
+calculated raw on_time of: 118.56490717679807 seconds
+
+processing well D11 with fl 16573 and od 0.903
+calculated raw on_time of: 128.7299655670299 seconds
+
+processing well E11 with fl 10560 and od 0.877
+calculated raw on_time of: 33.302244275745274 seconds
+
+processing well F11 with fl 11015 and od 0.929
+calculated raw on_time of: 43.0485710894675 seconds
+
+processing well G11 with fl 11184 and od 0.9259999999999999
+calculated raw on_time of: 44.95075849170227 seconds
+
+processing well H11 with fl 162 and od 0.95
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12814 and od 1.024
+calculated raw on_time of: -53.96131578947371 seconds
+
+processing well G9 with fl 3263 and od 0.901
+calculated raw on_time of: 515.1356597932122 seconds
+
+processing well F9 with fl 3125 and od 0.85
+calculated raw on_time of: 511.6195665634675 seconds
+
+processing well E9 with fl 3141 and od 0.806
+calculated raw on_time of: 497.50425493012926 seconds
+
+processing well D9 with fl 24847 and od 0.886
+calculated raw on_time of: -1047.9034715456814 seconds
+
+processing well C9 with fl 25195 and od 0.8999999999999999
+calculated raw on_time of: -1044.7307602339185 seconds
+
+processing well B9 with fl 25403 and od 0.903
+calculated raw on_time of: -1053.5204243166056 seconds
+
+processing well A9 with fl -13 and od 0.112
+calculated raw on_time of: 754.3422556390977 seconds
+
+New duration setpoints calculated:  [0, np.float64(108.15632116375114), np.float64(118.56490717679807), np.float64(128.7299655670299), np.float64(33.302244275745274), np.float64(43.0485710894675), np.float64(44.95075849170227), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 12022 and od 0.893
+calculated raw on_time of: -115.02059174664284 seconds
+
+processing well B11 with fl 16499 and od 0.9059999999999999
+calculated raw on_time of: 135.25963843104873 seconds
+
+processing well C11 with fl 16373 and od 0.8999999999999999
+calculated raw on_time of: 125.76928991060277 seconds
+
+processing well D11 with fl 16393 and od 0.913
+calculated raw on_time of: 154.95498098805993 seconds
+
+processing well E11 with fl 10440 and od 0.884
+calculated raw on_time of: 43.70075194231656 seconds
+
+processing well F11 with fl 10889 and od 0.937
+calculated raw on_time of: 55.678856993714305 seconds
+
+processing well G11 with fl 11052 and od 0.935
+calculated raw on_time of: 46.98361202398875 seconds
+
+processing well H11 with fl 160 and od 0.968
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12655 and od 1.038
+calculated raw on_time of: -33.69123712161021 seconds
+
+processing well G9 with fl 3232 and od 0.911
+calculated raw on_time of: 519.5225299598118 seconds
+
+processing well F9 with fl 3079 and od 0.858
+calculated raw on_time of: 516.9095147276965 seconds
+
+processing well E9 with fl 3105 and od 0.812
+calculated raw on_time of: 501.8494483572854 seconds
+
+processing well D9 with fl 24621 and od 0.888
+calculated raw on_time of: -1027.9079740897923 seconds
+
+processing well C9 with fl 25057 and od 0.907
+calculated raw on_time of: -1021.5008701832397 seconds
+
+processing well B9 with fl 25242 and od 0.911
+calculated raw on_time of: -1026.7343306329435 seconds
+
+processing well A9 with fl -12 and od 0.107
+calculated raw on_time of: 753.7560824901523 seconds
+
+New duration setpoints calculated:  [0, np.float64(135.25963843104873), np.float64(125.76928991060277), np.float64(154.95498098805993), np.float64(43.70075194231656), np.float64(55.678856993714305), np.float64(46.98361202398875), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11947 and od 0.884
+calculated raw on_time of: -117.97167068720225 seconds
+
+processing well B11 with fl 16538 and od 0.893
+calculated raw on_time of: 3.667035258095508 seconds
+
+processing well C11 with fl 16377 and od 0.893
+calculated raw on_time of: 40.07284648330374 seconds
+
+processing well D11 with fl 16389 and od 0.901
+calculated raw on_time of: 30.934687097500362 seconds
+
+processing well E11 with fl 10353 and od 0.876
+calculated raw on_time of: 0.5973226179387456 seconds
+
+processing well F11 with fl 10906 and od 0.9279999999999999
+calculated raw on_time of: -15.20594184185391 seconds
+
+processing well G11 with fl 11030 and od 0.9259999999999999
+calculated raw on_time of: -19.283630075280932 seconds
+
+processing well H11 with fl 163 and od 0.9510000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12621 and od 1.02
+calculated raw on_time of: -44.93637656955526 seconds
+
+processing well G9 with fl 3207 and od 0.899
+calculated raw on_time of: 518.6624979969566 seconds
+
+processing well F9 with fl 3076 and od 0.85
+calculated raw on_time of: 515.3647999010329 seconds
+
+processing well E9 with fl 3090 and od 0.806
+calculated raw on_time of: 501.6097042945522 seconds
+
+processing well D9 with fl 24756 and od 0.882
+calculated raw on_time of: -1049.3842357132128 seconds
+
+processing well C9 with fl 25099 and od 0.903
+calculated raw on_time of: -1031.9186448256949 seconds
+
+processing well B9 with fl 25427 and od 0.903
+calculated raw on_time of: -1055.1655994214868 seconds
+
+processing well A9 with fl -14 and od 0.131
+calculated raw on_time of: 753.8092004398744 seconds
+
+New duration setpoints calculated:  [0, np.float64(3.667035258095508), np.float64(40.07284648330374), np.float64(30.934687097500362), np.float64(0.5973226179387456), 0, 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11948 and od 0.887
+calculated raw on_time of: -114.95166852202442 seconds
+
+processing well B11 with fl 16680 and od 0.894
+calculated raw on_time of: 30.823959600856586 seconds
+
+processing well C11 with fl 16527 and od 0.8959999999999999
+calculated raw on_time of: 43.95739277952403 seconds
+
+processing well D11 with fl 16608 and od 0.9039999999999999
+calculated raw on_time of: 34.64679164143399 seconds
+
+processing well E11 with fl 10415 and od 0.877
+calculated raw on_time of: -11.04623784914931 seconds
+
+processing well F11 with fl 10890 and od 0.9279999999999999
+calculated raw on_time of: 12.640067519393336 seconds
+
+processing well G11 with fl 11071 and od 0.9299999999999999
+calculated raw on_time of: -1.240053996528938 seconds
+
+processing well H11 with fl 166 and od 0.954
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12648 and od 1.024
+calculated raw on_time of: -43.363731656184534 seconds
+
+processing well G9 with fl 3239 and od 0.901
+calculated raw on_time of: 517.0630164015292 seconds
+
+processing well F9 with fl 3062 and od 0.851
+calculated raw on_time of: 516.8565973684924 seconds
+
+processing well E9 with fl 3104 and od 0.807
+calculated raw on_time of: 500.9702212558354 seconds
+
+processing well D9 with fl 24936 and od 0.883
+calculated raw on_time of: -1060.2295300706805 seconds
+
+processing well C9 with fl 25229 and od 0.905
+calculated raw on_time of: -1037.0140078992783 seconds
+
+processing well B9 with fl 25558 and od 0.903
+calculated raw on_time of: -1064.2834437270594 seconds
+
+processing well A9 with fl -12 and od 0.133
+calculated raw on_time of: 752.9107044340411 seconds
+
+New duration setpoints calculated:  [0, np.float64(30.823959600856586), np.float64(43.95739277952403), np.float64(34.64679164143399), 0, np.float64(12.640067519393336), 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11934 and od 0.886
+calculated raw on_time of: -114.72400694928679 seconds
+
+processing well B11 with fl 16713 and od 0.8979999999999999
+calculated raw on_time of: 67.20164267762807 seconds
+
+processing well C11 with fl 16490 and od 0.899
+calculated raw on_time of: 86.80353275660504 seconds
+
+processing well D11 with fl 16548 and od 0.905
+calculated raw on_time of: 88.25417733017026 seconds
+
+processing well E11 with fl 10389 and od 0.881
+calculated raw on_time of: 18.182987589734626 seconds
+
+processing well F11 with fl 10843 and od 0.9299999999999999
+calculated raw on_time of: 26.231103115054516 seconds
+
+processing well G11 with fl 11053 and od 0.9339999999999999
+calculated raw on_time of: 12.960382055085367 seconds
+
+processing well H11 with fl 169 and od 0.9550000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12675 and od 1.024
+calculated raw on_time of: -44.86184554973827 seconds
+
+processing well G9 with fl 3227 and od 0.903
+calculated raw on_time of: 518.6124761556882 seconds
+
+processing well F9 with fl 3052 and od 0.851
+calculated raw on_time of: 517.798039879169 seconds
+
+processing well E9 with fl 3084 and od 0.806
+calculated raw on_time of: 502.4422797604355 seconds
+
+processing well D9 with fl 25000 and od 0.888
+calculated raw on_time of: -1054.4761473515402 seconds
+
+processing well C9 with fl 25445 and od 0.905
+calculated raw on_time of: -1052.099759914379 seconds
+
+processing well B9 with fl 25746 and od 0.905
+calculated raw on_time of: -1073.385947759683 seconds
+
+processing well A9 with fl -13 and od 0.137
+calculated raw on_time of: 753.3986471509917 seconds
+
+New duration setpoints calculated:  [0, np.float64(67.20164267762807), np.float64(86.80353275660504), np.float64(88.25417733017026), np.float64(18.182987589734626), np.float64(26.231103115054516), np.float64(12.960382055085367), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11868 and od 0.901
+calculated raw on_time of: -95.90794808489434 seconds
+
+processing well B11 with fl 16744 and od 0.911
+calculated raw on_time of: 108.21216070617955 seconds
+
+processing well C11 with fl 16461 and od 0.9099999999999999
+calculated raw on_time of: 122.18375024091318 seconds
+
+processing well D11 with fl 16471 and od 0.917
+calculated raw on_time of: 142.04327020686557 seconds
+
+processing well E11 with fl 10354 and od 0.897
+calculated raw on_time of: 56.0626647930426 seconds
+
+processing well F11 with fl 10779 and od 0.948
+calculated raw on_time of: 74.32075793005541 seconds
+
+processing well G11 with fl 10942 and od 0.952
+calculated raw on_time of: 73.35455472692088 seconds
+
+processing well H11 with fl 170 and od 0.98
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12590 and od 1.05
+calculated raw on_time of: -20.288435374149703 seconds
+
+processing well G9 with fl 3193 and od 0.921
+calculated raw on_time of: 525.2214762126349 seconds
+
+processing well F9 with fl 3035 and od 0.866
+calculated raw on_time of: 522.8064288070887 seconds
+
+processing well E9 with fl 3064 and od 0.8230000000000001
+calculated raw on_time of: 508.8322959803606 seconds
+
+processing well D9 with fl 24949 and od 0.899
+calculated raw on_time of: -1029.022542053529 seconds
+
+processing well C9 with fl 25419 and od 0.9179999999999999
+calculated raw on_time of: -1025.028678137922 seconds
+
+processing well B9 with fl 25735 and od 0.917
+calculated raw on_time of: -1049.0157345380899 seconds
+
+processing well A9 with fl -11 and od 0.11800000000000001
+calculated raw on_time of: 753.0681425112418 seconds
+
+New duration setpoints calculated:  [0, np.float64(108.21216070617955), np.float64(122.18375024091318), np.float64(142.04327020686557), np.float64(56.0626647930426), np.float64(74.32075793005541), np.float64(73.35455472692088), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11754 and od 0.888
+calculated raw on_time of: -99.86846846846852 seconds
+
+processing well B11 with fl 16562 and od 0.8979999999999999
+calculated raw on_time of: 52.02009279974126 seconds
+
+processing well C11 with fl 16385 and od 0.8999999999999999
+calculated raw on_time of: 50.26192430670643 seconds
+
+processing well D11 with fl 16368 and od 0.9079999999999999
+calculated raw on_time of: 68.515500946424 seconds
+
+processing well E11 with fl 10184 and od 0.886
+calculated raw on_time of: 21.12265269689152 seconds
+
+processing well F11 with fl 10676 and od 0.9319999999999999
+calculated raw on_time of: 2.656105419839547 seconds
+
+processing well G11 with fl 10860 and od 0.9390000000000001
+calculated raw on_time of: -5.208480287166753 seconds
+
+processing well H11 with fl 169 and od 0.96
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12437 and od 1.025
+calculated raw on_time of: -29.287479674796806 seconds
+
+processing well G9 with fl 3146 and od 0.9059999999999999
+calculated raw on_time of: 525.0326710816777 seconds
+
+processing well F9 with fl 2992 and od 0.858
+calculated raw on_time of: 524.0871794871795 seconds
+
+processing well E9 with fl 3031 and od 0.811
+calculated raw on_time of: 508.07554459515006 seconds
+
+processing well D9 with fl 24700 and od 0.891
+calculated raw on_time of: -1026.919640852974 seconds
+
+processing well C9 with fl 25156 and od 0.9099999999999999
+calculated raw on_time of: -1021.9465201465201 seconds
+
+processing well B9 with fl 25499 and od 0.907
+calculated raw on_time of: -1052.00124954061 seconds
+
+processing well A9 with fl -14 and od 0.14400000000000002
+calculated raw on_time of: 753.4888888888889 seconds
+
+New duration setpoints calculated:  [0, np.float64(52.02009279974126), np.float64(50.26192430670643), np.float64(68.515500946424), np.float64(21.12265269689152), np.float64(2.656105419839547), 0, 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11650 and od 0.89
+calculated raw on_time of: -90.30998154593667 seconds
+
+processing well B11 with fl 16523 and od 0.8999999999999999
+calculated raw on_time of: 82.75411444998387 seconds
+
+processing well C11 with fl 16322 and od 0.899
+calculated raw on_time of: 83.49649256800913 seconds
+
+processing well D11 with fl 16322 and od 0.913
+calculated raw on_time of: 113.9325097396147 seconds
+
+processing well E11 with fl 10043 and od 0.885
+calculated raw on_time of: 44.43464768079274 seconds
+
+processing well F11 with fl 10597 and od 0.938
+calculated raw on_time of: 53.513841908897504 seconds
+
+processing well G11 with fl 10770 and od 0.942
+calculated raw on_time of: 37.64132668283274 seconds
+
+processing well H11 with fl 172 and od 0.962
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12433 and od 1.028
+calculated raw on_time of: -26.596083063009196 seconds
+
+processing well G9 with fl 3134 and od 0.909
+calculated raw on_time of: 526.7871618762708 seconds
+
+processing well F9 with fl 2970 and od 0.861
+calculated raw on_time of: 526.6762769201794 seconds
+
+processing well E9 with fl 3020 and od 0.8150000000000001
+calculated raw on_time of: 510.2894532096986 seconds
+
+processing well D9 with fl 24662 and od 0.894
+calculated raw on_time of: -1018.0694768077319 seconds
+
+processing well C9 with fl 25093 and od 0.9139999999999999
+calculated raw on_time of: -1009.6162535199737 seconds
+
+processing well B9 with fl 25549 and od 0.909
+calculated raw on_time of: -1051.3866555054674 seconds
+
+processing well A9 with fl -13 and od 0.14200000000000002
+calculated raw on_time of: 753.301982372405 seconds
+
+New duration setpoints calculated:  [0, np.float64(82.75411444998387), np.float64(83.49649256800913), np.float64(113.9325097396147), np.float64(44.43464768079274), np.float64(53.513841908897504), np.float64(37.64132668283274), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11678 and od 0.893
+calculated raw on_time of: -89.53787489338487 seconds
+
+processing well B11 with fl 16600 and od 0.901
+calculated raw on_time of: 52.04524505126559 seconds
+
+processing well C11 with fl 16437 and od 0.9039999999999999
+calculated raw on_time of: 67.80415455251513 seconds
+
+processing well D11 with fl 16491 and od 0.913
+calculated raw on_time of: 44.79389856016143 seconds
+
+processing well E11 with fl 10157 and od 0.891
+calculated raw on_time of: 5.049741586114976 seconds
+
+processing well F11 with fl 10645 and od 0.9390000000000001
+calculated raw on_time of: 14.793057674955469 seconds
+
+processing well G11 with fl 10845 and od 0.9450000000000001
+calculated raw on_time of: 2.7101130142939556 seconds
+
+processing well H11 with fl 172 and od 0.9650000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12458 and od 1.029
+calculated raw on_time of: -27.434339894359 seconds
+
+processing well G9 with fl 3144 and od 0.911
+calculated raw on_time of: 526.5334887927063 seconds
+
+processing well F9 with fl 2965 and od 0.864
+calculated raw on_time of: 527.7776242563807 seconds
+
+processing well E9 with fl 3007 and od 0.8180000000000001
+calculated raw on_time of: 512.1407502185286 seconds
+
+processing well D9 with fl 25025 and od 0.894
+calculated raw on_time of: -1044.091627545757 seconds
+
+processing well C9 with fl 25406 and od 0.9159999999999999
+calculated raw on_time of: -1027.6844491707584 seconds
+
+processing well B9 with fl 25797 and od 0.9099999999999999
+calculated raw on_time of: -1066.8872516084955 seconds
+
+processing well A9 with fl -13 and od 0.14500000000000002
+calculated raw on_time of: 753.1451849204932 seconds
+
+New duration setpoints calculated:  [0, np.float64(52.04524505126559), np.float64(67.80415455251513), np.float64(44.79389856016143), np.float64(5.049741586114976), np.float64(14.793057674955469), np.float64(2.7101130142939556), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11691 and od 0.8959999999999999
+calculated raw on_time of: -87.50118063754437 seconds
+
+processing well B11 with fl 16706 and od 0.905
+calculated raw on_time of: 57.20168847450721 seconds
+
+processing well C11 with fl 16433 and od 0.9059999999999999
+calculated raw on_time of: 83.54605602119081 seconds
+
+processing well D11 with fl 16486 and od 0.9159999999999999
+calculated raw on_time of: 94.79748990020363 seconds
+
+processing well E11 with fl 10129 and od 0.895
+calculated raw on_time of: 33.655255114372835 seconds
+
+processing well F11 with fl 10587 and od 0.942
+calculated raw on_time of: 44.488123068383416 seconds
+
+processing well G11 with fl 10788 and od 0.9470000000000001
+calculated raw on_time of: 30.174193690139028 seconds
+
+processing well H11 with fl 175 and od 0.968
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12402 and od 1.031
+calculated raw on_time of: -22.29202170724096 seconds
+
+processing well G9 with fl 3125 and od 0.9119999999999999
+calculated raw on_time of: 528.2720023198492 seconds
+
+processing well F9 with fl 2974 and od 0.866
+calculated raw on_time of: 527.782719065524 seconds
+
+processing well E9 with fl 3006 and od 0.8160000000000001
+calculated raw on_time of: 511.8055420515314 seconds
+
+processing well D9 with fl 24989 and od 0.8979999999999999
+calculated raw on_time of: -1033.3829814647795 seconds
+
+processing well C9 with fl 25461 and od 0.9159999999999999
+calculated raw on_time of: -1031.3642498827098 seconds
+
+processing well B9 with fl 25866 and od 0.911
+calculated raw on_time of: -1069.58013625931 seconds
+
+processing well A9 with fl -13 and od 0.14900000000000002
+calculated raw on_time of: 753.1541405513341 seconds
+
+New duration setpoints calculated:  [0, np.float64(57.20168847450721), np.float64(83.54605602119081), np.float64(94.79748990020363), np.float64(33.655255114372835), np.float64(44.488123068383416), np.float64(30.174193690139028), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11603 and od 0.8959999999999999
+calculated raw on_time of: -81.16135928055435 seconds
+
+processing well B11 with fl 16584 and od 0.903
+calculated raw on_time of: 84.48604776409123 seconds
+
+processing well C11 with fl 16327 and od 0.907
+calculated raw on_time of: 105.269172364586 seconds
+
+processing well D11 with fl 16405 and od 0.9179999999999999
+calculated raw on_time of: 110.73060712177299 seconds
+
+processing well E11 with fl 9995 and od 0.894
+calculated raw on_time of: 48.29019370467017 seconds
+
+processing well F11 with fl 10513 and od 0.9410000000000001
+calculated raw on_time of: 40.70739642296982 seconds
+
+processing well G11 with fl 10739 and od 0.9510000000000001
+calculated raw on_time of: 36.03570640848555 seconds
+
+processing well H11 with fl 176 and od 0.9690000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12308 and od 1.03
+calculated raw on_time of: -17.144577033674928 seconds
+
+processing well G9 with fl 3132 and od 0.9119999999999999
+calculated raw on_time of: 527.8348813209494 seconds
+
+processing well F9 with fl 2927 and od 0.865
+calculated raw on_time of: 531.060193155449 seconds
+
+processing well E9 with fl 2971 and od 0.8180000000000001
+calculated raw on_time of: 515.1744772545487 seconds
+
+processing well D9 with fl 25009 and od 0.897
+calculated raw on_time of: -1036.741308317025 seconds
+
+processing well C9 with fl 25419 and od 0.915
+calculated raw on_time of: -1030.3166286013975 seconds
+
+processing well B9 with fl 25775 and od 0.9099999999999999
+calculated raw on_time of: -1065.1228977420928 seconds
+
+processing well A9 with fl -12 and od 0.15300000000000002
+calculated raw on_time of: 752.6439628482972 seconds
+
+New duration setpoints calculated:  [0, np.float64(84.48604776409123), np.float64(105.269172364586), np.float64(110.73060712177299), np.float64(48.29019370467017), np.float64(40.70739642296982), np.float64(36.03570640848555), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11486 and od 0.897
+calculated raw on_time of: -72.21981769296353 seconds
+
+processing well B11 with fl 16469 and od 0.903
+calculated raw on_time of: 93.6649406901919 seconds
+
+processing well C11 with fl 16254 and od 0.9079999999999999
+calculated raw on_time of: 100.60275267382197 seconds
+
+processing well D11 with fl 16341 and od 0.919
+calculated raw on_time of: 105.43970070873705 seconds
+
+processing well E11 with fl 9953 and od 0.897
+calculated raw on_time of: 39.949976897274894 seconds
+
+processing well F11 with fl 10422 and od 0.942
+calculated raw on_time of: 50.98637526860983 seconds
+
+processing well G11 with fl 10626 and od 0.9510000000000001
+calculated raw on_time of: 42.38421920395164 seconds
+
+processing well H11 with fl 171 and od 0.9690000000000001
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12276 and od 1.028
+calculated raw on_time of: -16.9704737926299 seconds
+
+processing well G9 with fl 3070 and od 0.911
+calculated raw on_time of: 531.6190353199457 seconds
+
+processing well F9 with fl 2905 and od 0.865
+calculated raw on_time of: 532.3577014620877 seconds
+
+processing well E9 with fl 2950 and od 0.8180000000000001
+calculated raw on_time of: 516.4872716812887 seconds
+
+processing well D9 with fl 24799 and od 0.897
+calculated raw on_time of: -1022.088268083153 seconds
+
+processing well C9 with fl 25258 and od 0.9159999999999999
+calculated raw on_time of: -1017.4569740559981 seconds
+
+processing well B9 with fl 25729 and od 0.909
+calculated raw on_time of: -1064.2086326279687 seconds
+
+processing well A9 with fl -12 and od 0.15700000000000003
+calculated raw on_time of: 752.1858373922818 seconds
+
+New duration setpoints calculated:  [0, np.float64(93.6649406901919), np.float64(100.60275267382197), np.float64(105.43970070873705), np.float64(39.949976897274894), np.float64(50.98637526860983), np.float64(42.38421920395164), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11366 and od 0.899
+calculated raw on_time of: -61.55946479169815 seconds
+
+processing well B11 with fl 16355 and od 0.905
+calculated raw on_time of: 108.51784793871813 seconds
+
+processing well C11 with fl 16125 and od 0.911
+calculated raw on_time of: 128.26184142930222 seconds
+
+processing well D11 with fl 16165 and od 0.921
+calculated raw on_time of: 141.67153316556926 seconds
+
+processing well E11 with fl 9834 and od 0.8979999999999999
+calculated raw on_time of: 58.26634590311857 seconds
+
+processing well F11 with fl 10345 and od 0.9430000000000001
+calculated raw on_time of: 53.40815804464748 seconds
+
+processing well G11 with fl 10524 and od 0.954
+calculated raw on_time of: 53.53384286872141 seconds
+
+processing well H11 with fl 176 and od 0.972
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12120 and od 1.031
+calculated raw on_time of: -4.76845764829393 seconds
+
+processing well G9 with fl 3057 and od 0.913
+calculated raw on_time of: 533.2971301592454 seconds
+
+processing well F9 with fl 2885 and od 0.867
+calculated raw on_time of: 534.6242328449173 seconds
+
+processing well E9 with fl 2923 and od 0.8180000000000001
+calculated raw on_time of: 518.8941008381378 seconds
+
+processing well D9 with fl 24744 and od 0.899
+calculated raw on_time of: -1013.9421121776826 seconds
+
+processing well C9 with fl 25262 and od 0.9179999999999999
+calculated raw on_time of: -1013.5967078189303 seconds
+
+processing well B9 with fl 25630 and od 0.9099999999999999
+calculated raw on_time of: -1054.9609731831956 seconds
+
+processing well A9 with fl -11 and od 0.15800000000000003
+calculated raw on_time of: 752.0441735687868 seconds
+
+New duration setpoints calculated:  [0, np.float64(108.51784793871813), np.float64(128.26184142930222), np.float64(141.67153316556926), np.float64(58.26634590311857), np.float64(53.40815804464748), np.float64(53.53384286872141), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11335 and od 0.901
+calculated raw on_time of: -57.65086021235818 seconds
+
+processing well B11 with fl 16395 and od 0.907
+calculated raw on_time of: 75.38852716075642 seconds
+
+processing well C11 with fl 16176 and od 0.911
+calculated raw on_time of: 77.44422128728748 seconds
+
+processing well D11 with fl 16239 and od 0.9219999999999999
+calculated raw on_time of: 84.27753257932203 seconds
+
+processing well E11 with fl 9803 and od 0.9019999999999999
+calculated raw on_time of: 48.429126973101646 seconds
+
+processing well F11 with fl 10329 and od 0.9470000000000001
+calculated raw on_time of: 48.90845953180581 seconds
+
+processing well G11 with fl 10545 and od 0.9570000000000001
+calculated raw on_time of: 28.700606435971377 seconds
+
+processing well H11 with fl 175 and od 0.974
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12149 and od 1.032
+calculated raw on_time of: -5.927383283192408 seconds
+
+processing well G9 with fl 3051 and od 0.915
+calculated raw on_time of: 534.0956946174302 seconds
+
+processing well F9 with fl 2887 and od 0.871
+calculated raw on_time of: 535.3657930533716 seconds
+
+processing well E9 with fl 2932 and od 0.8200000000000001
+calculated raw on_time of: 518.659948915711 seconds
+
+processing well D9 with fl 24887 and od 0.901
+calculated raw on_time of: -1020.2790511113592 seconds
+
+processing well C9 with fl 25376 and od 0.919
+calculated raw on_time of: -1019.7088612968743 seconds
+
+processing well B9 with fl 25790 and od 0.911
+calculated raw on_time of: -1064.3122231814216 seconds
+
+processing well A9 with fl -12 and od 0.16000000000000003
+calculated raw on_time of: 752.2989733059549 seconds
+
+New duration setpoints calculated:  [0, np.float64(75.38852716075642), np.float64(77.44422128728748), np.float64(84.27753257932203), np.float64(48.429126973101646), np.float64(48.90845953180581), np.float64(28.700606435971377), 480, 0, 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11399 and od 0.915
+calculated raw on_time of: -49.74622558162361 seconds
+
+processing well B11 with fl 16539 and od 0.9239999999999999
+calculated raw on_time of: 115.87927574649957 seconds
+
+processing well C11 with fl 16233 and od 0.927
+calculated raw on_time of: 142.85309544253556 seconds
+
+processing well D11 with fl 16246 and od 0.9430000000000001
+calculated raw on_time of: 181.55219047904606 seconds
+
+processing well E11 with fl 9822 and od 0.923
+calculated raw on_time of: 83.61759575542186 seconds
+
+processing well F11 with fl 10359 and od 0.9690000000000001
+calculated raw on_time of: 85.5798119070397 seconds
+
+processing well G11 with fl 10531 and od 0.9770000000000001
+calculated raw on_time of: 79.96144810704334 seconds
+
+processing well H11 with fl 181 and od 1.002
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12179 and od 1.058
+calculated raw on_time of: 10.834980322908029 seconds
+
+processing well G9 with fl 3053 and od 0.9299999999999999
+calculated raw on_time of: 537.4619535123302 seconds
+
+processing well F9 with fl 2878 and od 0.885
+calculated raw on_time of: 539.4343245711966 seconds
+
+processing well E9 with fl 2916 and od 0.833
+calculated raw on_time of: 523.5224628773665 seconds
+
+processing well D9 with fl 25068 and od 0.915
+calculated raw on_time of: -1005.8292856909133 seconds
+
+processing well C9 with fl 25534 and od 0.9299999999999999
+calculated raw on_time of: -1009.617616380143 seconds
+
+processing well B9 with fl 25967 and od 0.923
+calculated raw on_time of: -1052.9678324823808 seconds
+
+processing well A9 with fl -14 and od 0.15100000000000002
+calculated raw on_time of: 753.49465307795 seconds
+
+New duration setpoints calculated:  [0, np.float64(115.87927574649957), np.float64(142.85309544253556), np.float64(181.55219047904606), np.float64(83.61759575542186), np.float64(85.5798119070397), np.float64(79.96144810704334), 480, np.float64(10.834980322908029), 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrgrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrgrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrrrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was created! - ./Datafile\test_050725.csv
+Starting in 2 seconds...
+Datafile was modified! - ./Datafile\test_050725.csv
+processing well A11 with fl 11320 and od 0.901
+calculated raw on_time of: -56.17433027152286 seconds
+
+processing well B11 with fl 16443 and od 0.9079999999999999
+calculated raw on_time of: 37.7695425223436 seconds
+
+processing well C11 with fl 16224 and od 0.915
+calculated raw on_time of: 49.831331251503364 seconds
+
+processing well D11 with fl 16237 and od 0.923
+calculated raw on_time of: 30.663507842614433 seconds
+
+processing well E11 with fl 9769 and od 0.907
+calculated raw on_time of: 13.936552826639437 seconds
+
+processing well F11 with fl 10284 and od 0.948
+calculated raw on_time of: 11.499497313025564 seconds
+
+processing well G11 with fl 10483 and od 0.96
+calculated raw on_time of: 5.180058786761217 seconds
+
+processing well H11 with fl 182 and od 0.978
+calculated raw on_time of: 736.0 seconds
+
+processing well H9 with fl 12045 and od 1.032
+calculated raw on_time of: 0.9332762638512068 seconds
+
+processing well G9 with fl 3014 and od 0.9139999999999999
+calculated raw on_time of: 536.8640685899414 seconds
+
+processing well F9 with fl 2861 and od 0.87
+calculated raw on_time of: 537.4456526338058 seconds
+
+processing well E9 with fl 2905 and od 0.8230000000000001
+calculated raw on_time of: 522.0047956625344 seconds
+
+processing well D9 with fl 24863 and od 0.8999999999999999
+calculated raw on_time of: -1020.1255351056581 seconds
+
+processing well C9 with fl 25425 and od 0.919
+calculated raw on_time of: -1022.7102189407442 seconds
+
+processing well B9 with fl 25807 and od 0.911
+calculated raw on_time of: -1065.0954680243065 seconds
+
+processing well A9 with fl -13 and od 0.16500000000000004
+calculated raw on_time of: 752.9524446923219 seconds
+
+New duration setpoints calculated:  [0, np.float64(37.7695425223436), np.float64(49.831331251503364), np.float64(30.663507842614433), np.float64(13.936552826639437), np.float64(11.499497313025564), np.float64(5.180058786761217), 480, np.float64(0.9332762638512068), 480, 480, 480, 0, 0, 0, 480]
+Starting in 2 seconds...
+No continue button found, will wait for 10 seconds...
+Error running a new experiment...
+
+Writing to well-plate device - LED STATUS: rggggggggrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggggrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggggrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggggrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rgggrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rggrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing to well-plate device - LED STATUS: rrgrrrrgrrrrgggg
+DEVICE: COMMAND RECEIPT CONFIRMED
