@@ -4,7 +4,7 @@ Experiment run files and Dynamic models used to study the dynamics of optogeneti
 ## Installation: 
 To run the files in the repository, clone this repository via git. into your computer using the command:<br>
 ```
-git clone https://github.com/hariKRN2000/Gene-Expression-Across-Growth-Stages.git
+git clone https://github.com/hariKRN2000/LEMOS-models-and-data
 ```
 Once cloned, we recommend installing the dependencies in a new virtual environment (with Python version greater than 3.9). <br> 
 Example code to set up a virtual environment in desired directory using terminal command: 
