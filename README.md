@@ -55,5 +55,5 @@ The files are named such that to direct user to the specific experiment or analy
 -- ```Experimental Performance Analysis``` : Folder containing the jupyter notebooks used to overlay experimental data and perform tha calculations to estimate the performance metrics for different control strategies.
    
 4) Used to run the experiments: <br>
----```Experiment run files``` : Contains the Gen5 and python files used to run the LEMOS experiment. 
+---```Experiment run files``` : Contains the Gen5 protocols, python files used to run the LEMOS experiment, raw data from the experiment and python notebooks describing the analysis of the data. 
 
