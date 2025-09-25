@@ -29,6 +29,8 @@ def pi_controller_explicit_integral_discrete(protein, set_point, controller_gain
     """
     PI controller that explicitly calculates the integral error using trapezoidal rule
     over the discrete error samples at the end of each 10-min cycle.
+    NOTE: There was no difference observed in the dynamics while calculating the integral discretely or as a state variable.
+    This implementation is just to show an example of how to discretely estimate the integral of the error.
     """
     # Proportional term
     # error = set_point - protein
